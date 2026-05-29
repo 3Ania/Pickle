@@ -1,0 +1,2682 @@
+ID Przepisu,Typ Zmiany,Stara Wartość,Nowa Wartość
+1,Składnik,asparagus,szparagi
+1,Jednostka,bag (asparagus),opakowanie
+1,Składnik,ewoo,oliwa z oliwek extra virgin
+1,Jednostka,Tbsp (ewoo),łyżka
+1,Jednostka,cloves (czosnek),ząbki
+1,Jednostka,box (bulion warzywny),pudełko
+2,Jednostka,Tbsps (olej z pestek winogron),łyżki
+2,Jednostka,Tbsps (olej kokosowy),łyżki
+2,Jednostka,cloves (czosnek),ząbki
+2,Jednostka,head (kalafior),główka
+2,Jednostka,Tbsps (sos sojowy),łyżki
+2,Jednostka,tsps (olej sezamowy),łyżeczki
+2,Jednostka,servings (nasiona sezamu),porcje
+2,Jednostka,servings (dodatkowe wierzchołki cebuli),porcje
+2,Jednostka,servings (sól),porcje
+3,Jednostka,tsps (pieprz),łyżeczki
+3,Jednostka,tsp (musztarda dijon),łyżeczka
+3,Jednostka,tsps (miód),łyżeczki
+3,Jednostka,Tbsps (oliwa z oliwek),łyżki
+3,Jednostka,Tbsps (czerwony ocet winny),łyżki
+4,Jednostka,bunch (brokuły),pęczek
+4,Jednostka,Tbsp (oliwa z oliwek),łyżka
+5,Jednostka,tsp (ocet balsamiczny),łyżeczka
+5,Jednostka,tsp (kminek),łyżeczka
+5,Jednostka,clove (czosnek),ząbek
+6,Jednostka,can (ciecierzyca),puszka
+6,Jednostka,servings (kolendra),porcje
+6,Jednostka,tsps (mielony cynamon),łyżeczki
+6,Jednostka,tsps (mielony kminek),łyżeczki
+6,Jednostka,tsps (mielona kurkuma),łyżeczki
+6,Jednostka,Tbsp (sok z cytryny),łyżka
+6,Jednostka,tsps (oliwa z oliwek),łyżeczki
+6,Jednostka,tsps (papryka),łyżeczki
+6,Jednostka,servings (sól i pieprz),porcje
+6,Jednostka,Tbsps (pasta pomidorowa),łyżki
+7,Jednostka,tsps (proszek z nasion kminku),łyżeczki
+7,Jednostka,bunch (kolendra),pęczek
+7,Jednostka,tsps (mielona kolendra),łyżeczki
+7,Jednostka,tsp (oliwa z oliwek),łyżeczka
+7,Jednostka,tsps (nasiona słonecznika),łyżeczki
+8,Jednostka,servings (tęczowe pomidorki koktajlowe),porcje
+8,Jednostka,servings (sól i pieprz),porcje
+9,Jednostka,can (groszek czarnooki),puszka
+9,Jednostka,servings (kapusta włoska),porcje
+9,Jednostka,servings (komosa ryżowa),porcje
+9,Jednostka,servings (gałka muszkatołowa),porcje
+9,Jednostka,Tbsps (oliwa z oliwek),łyżki
+9,Jednostka,servings (sól i pieprz),porcje
+10,Jednostka,cloves (czosnek),ząbki
+10,Jednostka,Tbsps (sok z cytryny),łyżki
+10,Jednostka,Tbsps (ocet ryżowy),łyżki
+10,Jednostka,tsps (musztarda dijon),łyżeczki
+10,Jednostka,servings (płatki czerwonej papryki),porcje
+10,Jednostka,servings (sól i pieprz),porcje
+11,Jednostka,clove (czosnek),ząbek
+11,Jednostka,servings (oliwa z oliwek),porcje
+11,Jednostka,servings (sól i pieprz),porcje
+12,Jednostka,Tbsps (oliwa z oliwek),łyżki
+12,Jednostka,tsps (sól i pieprz),łyżeczki
+13,Jednostka,pinch (płatków chili),szczypta
+13,Jednostka,cloves (czosnek),ząbki
+13,Jednostka,servings (oliwa z oliwek),porcje
+13,Jednostka,servings (sól),porcje
+13,Jednostka,tsps (kurkuma w proszku),łyżeczki
+14,Jednostka,tsps (skórka cytrynowa),łyżeczki
+14,Jednostka,Tbsps (wyciśnięty sok z cytryny),łyżki
+14,Jednostka,tsp (cukier),łyżeczka
+14,Jednostka,tsps (musztarda dijon),łyżeczki
+14,Jednostka,tsps (sól koszerna),łyżeczki
+14,Jednostka,servings (pieprz),porcje
+14,Jednostka,Tbsps (oliwa z oliwek),łyżki
+14,Jednostka,Tbsps (rodzynki),łyżki
+14,Jednostka,can (fasola garbanzo),puszka
+15,Jednostka,cloves (czosnek),ząbki
+15,Jednostka,tsps (sól),łyżeczki
+15,Jednostka,tsps (pieprz),łyżeczki
+15,Jednostka,tsps (kurkuma),łyżeczki
+15,Jednostka,tsps (curry),łyżeczki
+16,Jednostka,tsp (kminek),łyżeczka
+16,Jednostka,servings (pietruszka),porcje
+16,Jednostka,Tbsp (sok z cytryny),łyżka
+16,Jednostka,servings (oliwa z oliwek),porcje
+16,Jednostka,servings (papryka),porcje
+16,Jednostka,servings (sól),porcje
+17,Jednostka,handfuls (szpinak),garście
+17,Jednostka,clove (czosnek),ząbek
+17,Jednostka,Tbsp (sok z cytryny),łyżka
+17,Jednostka,Tbsp (tahini),łyżka
+17,Jednostka,Tbsp (oliwa z oliwek),łyżka
+17,Jednostka,Tbsps (woda),łyżki
+17,Jednostka,tsps (mielony kminek),łyżeczki
+17,Jednostka,Tbsps (harissa),łyżki
+18,Jednostka,Tbsp (nasiona sezamu),łyżka
+18,Jednostka,Tbsp (stalówki kakaowe),łyżka
+18,Jednostka,Tbsps (nasiona chia),łyżki
+18,Jednostka,Tbsp (jagody goji),łyżka
+18,Jednostka,tsps (proszek lucuma),łyżeczki
+18,Jednostka,Tbsp (pestki dyni),łyżka
+19,Jednostka,tsps (pieprz),łyżeczki
+19,Jednostka,Tbsp (oliwa z oliwek z pierwszego tłoczenia),łyżka
+19,Jednostka,tsps (czosnek),łyżeczki
+19,Jednostka,Tbsps (łagodne miso),łyżki
+19,Jednostka,tsp (sól),łyżeczka
+19,Jednostka,tsp (do 2 estragonu),łyżeczka
+20,Jednostka,cloves (czosnek),ząbki
+20,Jednostka,Tbsps (woda),łyżki
+20,Jednostka,tsps (sól morska),łyżeczki
+21,Jednostka,tsp (sól),łyżeczka
+21,Jednostka,Tbsps (oliwa z oliwek),łyżki
+21,Jednostka,Tbsps (posiekane migdały),łyżki
+21,Jednostka,Tbsps (posiekane pistacje),łyżki
+21,Jednostka,sprigs (mennica),gałązki
+22,Jednostka,heads (brokuł),główki
+22,Jednostka,large cloves (czosnek),duże ząbki
+22,Jednostka,tsps (węgierska papryka),łyżeczki
+22,Jednostka,tsps (papryka),łyżeczki
+22,Jednostka,tsp (sól),łyżeczka
+22,Jednostka,Tbsp (ocet sherry),łyżka
+24,Jednostka,Tbsps (miód),łyżki
+24,Jednostka,Tbsp (sos sriracha),łyżka
+24,Jednostka,Tbsps (sok z limonki),łyżki
+24,Jednostka,Tbsps (oliwa z oliwek),łyżki
+24,Jednostka,servings (sól i pieprz),porcje
+25,Jednostka,Tbsps (oliwa z oliwek),łyżki
+25,Jednostka,servings (sól i pieprz),porcje
+26,Jednostka,handful (rukola),garść
+27,Jednostka,Tbsps (żurawina),łyżki
+27,Jednostka,Tbsp (orzechy włoskie),łyżka
+28,Jednostka,tsps (papryka ostra),łyżeczki
+28,Jednostka,Tbsp (sos sojowy),łyżka
+28,Jednostka,Tbsp (cukier),łyżka
+28,Jednostka,tsps (ocet destylowany),łyżeczki
+29,Jednostka,slice (chleb zbożowy),plasterek
+29,Jednostka,Tbsp (ocet),łyżka
+29,Jednostka,servings (oliwa z oliwek),porcje
+29,Jednostka,cloves (czosnek),ząbki
+29,Jednostka,pinch (płatki chilli),szczypta
+29,Jednostka,bunch (liście szpinaku),pęczek
+29,Jednostka,servings (sól i pieprz),porcje
+30,Jednostka,pinch (proszek do pieczenia),szczypta
+30,Jednostka,tsps (proszek kardamonu),łyżeczki
+30,Jednostka,tsps (proszek cynamonowy),łyżeczki
+30,Jednostka,tsp (proszek kolendry),łyżeczka
+30,Jednostka,tsp (kminek w proszku),łyżeczka
+30,Jednostka,Tbsp (ożywić),łyżka
+30,Jednostka,tsps (mielony koper włoski),łyżeczki
+30,Jednostka,servings (sól),porcje
+30,Jednostka,Tbsps (olej słonecznikowy),łyżki
+30,Jednostka,tsps (kurkuma),łyżeczki
+31,Jednostka,servings (sól),porcje
+31,Jednostka,Tbsp (oliwa z oliwek),łyżka
+31,Jednostka,Tbsp (sok z cytryny),łyżka
+32,Składnik,asparagus,szparagi
+32,Jednostka,pinch (sól morska i świeżo mielony pieprz),szczypta
+33,Jednostka,bottle (sos ze skrzydełek bawolego),butelka
+33,Jednostka,tsp (curry w proszku),łyżeczka
+33,Jednostka,tsp (proszek czosnkowy),łyżeczka
+33,Jednostka,Tbsps (drożdże odżywcze),łyżki
+33,Jednostka,tsp (proszek cebulowy),łyżeczka
+34,Jednostka,tsp (olej),łyżeczka
+34,Jednostka,servings (kolendra),porcje
+34,Jednostka,tsp (kminek),łyżeczka
+34,Jednostka,servings (sól i pieprz),porcje
+34,Jednostka,tsps (miód),łyżeczki
+35,Jednostka,tsps (chili w proszku),łyżeczki
+35,Jednostka,Tbsps (ser cheddar o obniżonej zawartości tłuszczu),łyżki
+35,Jednostka,serving (sól),porcja
+36,Składnik,asparagus,szparagi
+36,Jednostka,bag (asparagus),opakowanie
+36,Składnik,ewoo,oliwa z oliwek extra virgin
+36,Jednostka,Tbsp (ewoo),łyżka
+36,Jednostka,cloves (czosnek),ząbki
+36,Jednostka,box (bulion warzywny),pudełko
+37,Jednostka,Tbsps (ocet balsamiczny),łyżki
+37,Jednostka,clove (czosnek),ząbek
+37,Jednostka,bunch (jarmuż),pęczek
+37,Jednostka,servings (oliwa z oliwek),porcje
+38,Jednostka,stalks (seler),łodygi
+38,Jednostka,tsp (nasiona selera),łyżeczka
+38,Jednostka,tsp (majeranek),łyżeczka
+38,Jednostka,tsps (tymianek),łyżeczki
+38,Jednostka,cloves (czosnek),ząbki
+38,Jednostka,handfuls (zielona fasola),garście
+38,Jednostka,servings (mielony pieprz),porcje
+38,Jednostka,tsps (mielona szałwia),łyżeczki
+38,Jednostka,tsps (płynny dym),łyżeczki
+38,Jednostka,Tbsps (oliwa z oliwek),łyżki
+38,Jednostka,tsps (sól morska),łyżeczki
+38,Jednostka,tsp (sriracha),łyżeczka
+39,Jednostka,Tbsps (olej z pestek winogron),łyżki
+39,Jednostka,Tbsps (olej kokosowy),łyżki
+39,Jednostka,cloves (czosnek),ząbki
+39,Jednostka,head (kalafior),główka
+39,Jednostka,Tbsps (sos sojowy),łyżki
+39,Jednostka,tsps (olej sezamowy),łyżeczki
+39,Jednostka,servings (nasiona sezamu),porcje
+39,Jednostka,servings (dodatkowe wierzchołki cebuli),porcje
+39,Jednostka,servings (sól),porcje
+40,Jednostka,tsps (suszony tymianek),łyżeczki
+40,Jednostka,tsps (mielony kminek),łyżeczki
+40,Jednostka,Tbsps (miód),łyżki
+40,Jednostka,Tbsps (oliwa z oliwek),łyżki
+40,Jednostka,tsps (czerwony ocet winny),łyżeczki
+40,Jednostka,servings (sól morska),porcje
+40,Jednostka,tsps (kurkuma),łyżeczki
+41,Jednostka,tsps (chili w proszku),łyżeczki
+41,Jednostka,tsps (kminek),łyżeczki
+41,Jednostka,tsps (mielony pieprz),łyżeczki
+41,Jednostka,dashes (opcjonalnie: ostry sos),szczypty
+41,Jednostka,tsp (oliwa z oliwek),łyżeczka
+41,Jednostka,Tbsps (woda),łyżki
+42,Jednostka,Tbsp (rozmaryn),łyżka
+42,Jednostka,cloves (czosnek),ząbki
+42,Jednostka,tsp (oliwa z oliwek),łyżeczka
+42,Jednostka,servings (sól),porcje
+42,Jednostka,Tbsps (woda),łyżki
+43,Jednostka,tsps (pieprz),łyżeczki
+43,Jednostka,tsp (musztarda dijon),łyżeczka
+43,Jednostka,tsps (miód),łyżeczki
+43,Jednostka,Tbsps (oliwa z oliwek),łyżki
+43,Jednostka,Tbsps (czerwony ocet winny),łyżki
+44,Jednostka,bunch (brokuły),pęczek
+44,Jednostka,Tbsp (oliwa z oliwek),łyżka
+45,Składnik,asparagus,szparagi
+45,Jednostka,bunch (asparagus),pęczek
+45,Jednostka,Tbsp (tymianek),łyżka
+45,Jednostka,cloves (czosnek),ząbki
+45,Jednostka,Tbsps (oliwa z oliwek),łyżki
+45,Jednostka,servings (sól i pieprz),porcje
+45,Jednostka,Tbsps (ocet sherry),łyżki
+46,Jednostka,head (czosnek),główka
+46,Jednostka,tsp (sól koszerna),łyżeczka
+46,Jednostka,tsp (liście rozmarynu),łyżeczka
+46,Jednostka,bunch (jarmuż dinozaura),pęczek
+47,Jednostka,Tbsps (oliwa z oliwek),łyżki
+47,Jednostka,cloves (czosnek),ząbki
+47,Jednostka,tsps (sól),łyżeczki
+47,Jednostka,bunch (pietruszka),pęczek
+48,Jednostka,Tbsps (oliwa z oliwek),łyżki
+48,Jednostka,cloves (czosnek),ząbki
+48,Jednostka,pinch (sól),szczypta
+48,Jednostka,sprig (bazylia),gałązka
+48,Jednostka,Tbsps (pikantny sos orzechowy trader joe's),łyżki
+49,Jednostka,tsp (ocet balsamiczny),łyżeczka
+49,Jednostka,tsp (kminek),łyżeczka
+49,Jednostka,clove (czosnek),ząbek
+50,Jednostka,Tbsps (szczypiorek),łyżki
+50,Jednostka,serving (sól i pieprz),porcja
+51,Jednostka,tsps (curry w proszku),łyżeczki
+51,Jednostka,tsps (garam masala),łyżeczki
+51,Jednostka,tsps (mielona kolendra),łyżeczki
+51,Jednostka,tsps (mielony kminek),łyżeczki
+51,Jednostka,tsps (mielona musztarda w proszku),łyżeczki
+51,Jednostka,tsps (oliwa z oliwek),łyżeczki
+51,Jednostka,tsp (sól morska),łyżeczka
+51,Jednostka,bunch (boćwina szwajcarska),pęczek
+51,Jednostka,Tbsps (woda),łyżki
+52,Jednostka,can (ciecierzyca),puszka
+52,Jednostka,servings (kolendra),porcje
+52,Jednostka,tsps (mielony cynamon),łyżeczki
+52,Jednostka,tsps (mielony kminek),łyżeczki
+52,Jednostka,tsps (mielona kurkuma),łyżeczki
+52,Jednostka,Tbsp (sok z cytryny),łyżka
+52,Jednostka,tsps (oliwa z oliwek),łyżeczki
+52,Jednostka,tsps (papryka),łyżeczki
+52,Jednostka,servings (sól i pieprz),porcje
+52,Jednostka,Tbsps (pasta pomidorowa),łyżki
+53,Jednostka,Tbsps (mennica),łyżki
+53,Jednostka,Tbsp (miód),łyżka
+53,Jednostka,Tbsps (sok z limonki),łyżki
+53,Jednostka,tsps (skórka z limonki),łyżeczki
+53,Jednostka,servings (papryka),porcje
+53,Jednostka,servings (sól),porcje
+53,Jednostka,Tbsp (krem),łyżka
+54,Jednostka,tsp (pieprz),łyżeczka
+54,Jednostka,tsps (cayenne),łyżeczki
+54,Jednostka,tsps (cynamon),łyżeczki
+54,Jednostka,tsps (mielony imbir),łyżeczki
+54,Jednostka,tsps (mielona gałka muszkatołowa),łyżeczki
+54,Jednostka,servings (oliwa z oliwek),porcje
+54,Jednostka,servings (sól),porcje
+54,Jednostka,tsps (kurkuma),łyżeczki
+55,Jednostka,tsps (oliwa z oliwek z pierwszego tłoczenia),łyżeczki
+55,Jednostka,clove (czosnek),ząbek
+55,Jednostka,tsps (mielony pieprz),łyżeczki
+55,Jednostka,tsps (sok z cytryny),łyżeczki
+55,Jednostka,tsps (sól),łyżeczki
+56,Jednostka,pinch (asafetyda),szczypta
+56,Jednostka,tsps (cayenne),łyżeczki
+56,Jednostka,inch (ożywić),cm
+56,Jednostka,cloves (czosnek),ząbki
+56,Jednostka,tsps (mielona kolendra),łyżeczki
+56,Jednostka,tsps (mielony kminek),łyżeczki
+56,Jednostka,servings (mielony pieprz),porcje
+56,Jednostka,Tbsps (oliwa z oliwek),łyżki
+56,Jednostka,tsp (sól morska),łyżeczka
+56,Jednostka,tsp (kurkuma),łyżeczka
+57,Jednostka,Tbsp (migdały),łyżka
+57,Jednostka,cloves (czosnek),ząbki
+57,Jednostka,servings (sól i pieprz),porcje
+58,Jednostka,servings (warzywa),porcje
+59,Jednostka,tsps (braggs płynne aminokwasy),łyżeczki
+59,Jednostka,tsps (curry w proszku),łyżeczki
+59,Jednostka,tsps (proszek imbirowy),łyżeczki
+59,Jednostka,tsps (tryskać sriracha),łyżeczki
+60,Jednostka,servings (oliwa z oliwek z dodatkiem bazylii),porcje
+60,Jednostka,servings (papryka),porcje
+60,Jednostka,pkt (dynia),opakowanie
+60,Jednostka,servings (liście rakiety),porcje
+60,Jednostka,servings (sól ziołowa),porcje
+61,Jednostka,tsps (proszek z nasion kminku),łyżeczki
+61,Jednostka,bunch (kolendra),pęczek
+61,Jednostka,tsps (mielona kolendra),łyżeczki
+61,Jednostka,tsp (oliwa z oliwek),łyżeczka
+61,Jednostka,tsps (nasiona słonecznika),łyżeczki
+62,Jednostka,servings (tęczowe pomidorki koktajlowe),porcje
+62,Jednostka,servings (sól i pieprz),porcje
+63,Jednostka,clove (czosnek),ząbek
+63,Jednostka,tsp (oliwa z oliwek),łyżeczka
+63,Jednostka,tsps (mielony kminek),łyżeczki
+63,Jednostka,servings (rzeżucha ogrodowa),porcje
+63,Jednostka,head (czosnek pieczony),główka
+63,Jednostka,Tbsps (tahini),łyżki
+63,Jednostka,Tbsps (woda),łyżki
+63,Jednostka,tsps (sól koszerna),łyżeczki
+64,Jednostka,Tbsps (chili chipotle),łyżki
+64,Jednostka,Tbsps (mielony kminek),łyżki
+64,Jednostka,bunch (kapusta włoska),pęczek
+64,Jednostka,Tbsps (oliwa z oliwek),łyżki
+64,Jednostka,servings (sól i pieprz),porcje
+65,Jednostka,Tbsps (przyprawiona bułka tarta),łyżki
+66,Jednostka,Tbsp (oliwa z oliwek),łyżka
+66,Jednostka,Tbsps (papryka),łyżki
+66,Jednostka,Tbsps (bazylia),łyżki
+66,Jednostka,servings (sól i pieprz),porcje
+67,Jednostka,servings (sól i pieprz),porcje
+68,Jednostka,can (groszek czarnooki),puszka
+68,Jednostka,servings (kapusta włoska),porcje
+68,Jednostka,servings (komosa ryżowa),porcje
+68,Jednostka,servings (gałka muszkatołowa),porcje
+68,Jednostka,Tbsps (oliwa z oliwek),łyżki
+68,Jednostka,servings (sól i pieprz),porcje
+69,Jednostka,Tbsp (mleko w proszku),łyżka
+69,Jednostka,tsps (sól),łyżeczki
+69,Jednostka,tsp (drożdże),łyżeczka
+70,Jednostka,bunch (kolendra),pęczek
+70,Jednostka,clove (czosnek),ząbek
+70,Jednostka,servings (papryka),porcje
+70,Jednostka,servings (sól),porcje
+71,Składnik,asparagus,szparagi
+71,Jednostka,bag (asparagus),opakowanie
+71,Składnik,ewoo,oliwa z oliwek extra virgin
+71,Jednostka,Tbsp (ewoo),łyżka
+71,Jednostka,cloves (czosnek),ząbki
+71,Jednostka,box (bulion warzywny),pudełko
+72,Jednostka,Tbsps (olej z pestek winogron),łyżki
+72,Jednostka,Tbsps (olej kokosowy),łyżki
+72,Jednostka,cloves (czosnek),ząbki
+72,Jednostka,head (kalafior),główka
+72,Jednostka,Tbsps (sos sojowy),łyżki
+72,Jednostka,tsps (olej sezamowy),łyżeczki
+72,Jednostka,servings (nasiona sezamu),porcje
+72,Jednostka,servings (dodatkowe wierzchołki cebuli),porcje
+72,Jednostka,servings (sól),porcje
+73,Jednostka,tsps (pieprz),łyżeczki
+73,Jednostka,tsp (musztarda dijon),łyżeczka
+73,Jednostka,tsps (miód),łyżeczki
+73,Jednostka,Tbsps (oliwa z oliwek),łyżki
+73,Jednostka,Tbsps (czerwony ocet winny),łyżki
+74,Jednostka,Tbsps (naturalne masło migdałowe),łyżki
+74,Jednostka,tsps (nasiona chia),łyżeczki
+74,Jednostka,Tbsp (herbata matcha w proszku),łyżka
+74,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+75,Jednostka,bunch (brokuły),pęczek
+75,Jednostka,Tbsp (oliwa z oliwek),łyżka
+76,Jednostka,tsp (ocet balsamiczny),łyżeczka
+76,Jednostka,tsp (kminek),łyżeczka
+76,Jednostka,clove (czosnek),ząbek
+77,Jednostka,tsps (pieprz),łyżeczki
+77,Jednostka,tsps (chili w proszku),łyżeczki
+77,Jednostka,tsps (kminek),łyżeczki
+77,Jednostka,Tbsps (kolendra),łyżki
+77,Jednostka,servings (wierzchołki zielonej cebuli),porcje
+77,Jednostka,servings (sól),porcje
+77,Jednostka,tsps (pieprz),łyżeczki
+78,Jednostka,can (ciecierzyca),puszka
+78,Jednostka,servings (kolendra),porcje
+78,Jednostka,tsps (mielony cynamon),łyżeczki
+78,Jednostka,tsps (mielony kminek),łyżeczki
+78,Jednostka,tsps (mielona kurkuma),łyżeczki
+78,Jednostka,Tbsp (sok z cytryny),łyżka
+78,Jednostka,tsps (oliwa z oliwek),łyżeczki
+78,Jednostka,tsps (papryka),łyżeczki
+78,Jednostka,servings (sól i pieprz),porcje
+78,Jednostka,Tbsps (pasta pomidorowa),łyżki
+79,Jednostka,servings (ryż),porcje
+79,Jednostka,tsp (bazylia),łyżeczka
+79,Jednostka,Tbsps (oliwa z oliwek),łyżki
+79,Jednostka,tsp (oregano),łyżeczka
+79,Jednostka,servings (pieprz),porcje
+79,Jednostka,servings (sól i pieprz),porcje
+80,Jednostka,tsps (proszek z nasion kminku),łyżeczki
+80,Jednostka,bunch (kolendra),pęczek
+80,Jednostka,tsps (mielona kolendra),łyżeczki
+80,Jednostka,tsp (oliwa z oliwek),łyżeczka
+80,Jednostka,tsps (nasiona słonecznika),łyżeczki
+81,Jednostka,servings (tęczowe pomidorki koktajlowe),porcje
+81,Jednostka,servings (sól i pieprz),porcje
+82,Jednostka,servings (papryka),porcje
+82,Jednostka,tsps (cayenne),łyżeczki
+82,Jednostka,tsps (chili w proszku),łyżeczki
+82,Jednostka,tsps (kminek),łyżeczki
+82,Jednostka,servings (wierzchołki zielonej cebuli),porcje
+83,Jednostka,Tbsps (majonez),łyżki
+83,Jednostka,servings (sól i pieprz),porcje
+83,Jednostka,handfuls (rukiew wodna),garście
+84,Jednostka,can (groszek czarnooki),puszka
+84,Jednostka,servings (kapusta włoska),porcje
+84,Jednostka,servings (komosa ryżowa),porcje
+84,Jednostka,servings (gałka muszkatołowa),porcje
+84,Jednostka,Tbsps (oliwa z oliwek),łyżki
+84,Jednostka,servings (sól i pieprz),porcje
+85,Jednostka,cloves (czosnek),ząbki
+85,Jednostka,Tbsps (sok z cytryny),łyżki
+85,Jednostka,Tbsps (ocet ryżowy),łyżki
+85,Jednostka,tsps (musztarda dijon),łyżeczki
+85,Jednostka,servings (płatki czerwonej papryki),porcje
+85,Jednostka,servings (sól i pieprz),porcje
+86,Jednostka,servings (dodatkowe dodatki: awokado),porcje
+86,Jednostka,cloves (czosnek),ząbki
+86,Jednostka,Tbsps (oliwa z oliwek),łyżki
+86,Jednostka,servings (sól i pieprz),porcje
+87,Składnik,asparagus,szparagi
+87,Jednostka,bag (asparagus),opakowanie
+87,Składnik,ewoo,oliwa z oliwek extra virgin
+87,Jednostka,Tbsp (ewoo),łyżka
+87,Jednostka,cloves (czosnek),ząbki
+87,Jednostka,box (bulion warzywny),pudełko
+88,Jednostka,Tbsps (ocet balsamiczny),łyżki
+88,Jednostka,clove (czosnek),ząbek
+88,Jednostka,bunch (jarmuż),pęczek
+88,Jednostka,servings (oliwa z oliwek),porcje
+89,Jednostka,stalks (seler),łodygi
+90,Jednostka,stalks (seler),łodygi
+90,Jednostka,tsp (nasiona selera),łyżeczka
+90,Jednostka,tsp (majeranek),łyżeczka
+90,Jednostka,tsps (tymianek),łyżeczki
+90,Jednostka,cloves (czosnek),ząbki
+90,Jednostka,handfuls (zielona fasola),garście
+90,Jednostka,servings (mielony pieprz),porcje
+90,Jednostka,tsps (mielona szałwia),łyżeczki
+90,Jednostka,tsps (płynny dym),łyżeczki
+90,Jednostka,Tbsps (oliwa z oliwek),łyżki
+90,Jednostka,tsps (sól morska),łyżeczki
+90,Jednostka,tsp (sriracha),łyżeczka
+91,Jednostka,Tbsps (olej z pestek winogron),łyżki
+91,Jednostka,Tbsps (olej kokosowy),łyżki
+91,Jednostka,cloves (czosnek),ząbki
+91,Jednostka,head (kalafior),główka
+91,Jednostka,Tbsps (sos sojowy),łyżki
+91,Jednostka,tsps (olej sezamowy),łyżeczki
+91,Jednostka,servings (nasiona sezamu),porcje
+91,Jednostka,servings (dodatkowe wierzchołki cebuli),porcje
+91,Jednostka,servings (sól),porcje
+92,Jednostka,tsps (suszony tymianek),łyżeczki
+92,Jednostka,tsps (mielony kminek),łyżeczki
+92,Jednostka,Tbsps (miód),łyżki
+92,Jednostka,Tbsps (oliwa z oliwek),łyżki
+92,Jednostka,tsps (czerwony ocet winny),łyżeczki
+92,Jednostka,servings (sól morska),porcje
+92,Jednostka,tsps (kurkuma),łyżeczki
+93,Jednostka,tsps (chili w proszku),łyżeczki
+93,Jednostka,tsps (kminek),łyżeczki
+93,Jednostka,tsps (mielony pieprz),łyżeczki
+93,Jednostka,dashes (opcjonalnie: ostry sos),szczypty
+93,Jednostka,tsp (oliwa z oliwek),łyżeczka
+93,Jednostka,Tbsps (woda),łyżki
+94,Jednostka,Tbsp (rozmaryn),łyżka
+94,Jednostka,cloves (czosnek),ząbki
+94,Jednostka,tsp (oliwa z oliwek),łyżeczka
+94,Jednostka,servings (sól),porcje
+94,Jednostka,Tbsps (woda),łyżki
+95,Jednostka,tsps (pieprz),łyżeczki
+95,Jednostka,tsp (musztarda dijon),łyżeczka
+95,Jednostka,tsps (miód),łyżeczki
+95,Jednostka,Tbsps (oliwa z oliwek),łyżki
+95,Jednostka,Tbsps (czerwony ocet winny),łyżki
+96,Jednostka,tsps (cynamon),łyżeczki
+96,Jednostka,Tbsp (kminek),łyżka
+96,Jednostka,tsps (mielony pieprz),łyżeczki
+96,Jednostka,tsps (sól),łyżeczki
+97,Jednostka,Tbsps (naturalne masło migdałowe),łyżki
+97,Jednostka,tsps (nasiona chia),łyżeczki
+97,Jednostka,Tbsp (herbata matcha w proszku),łyżka
+97,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+98,Jednostka,bunch (brokuły),pęczek
+98,Jednostka,Tbsp (oliwa z oliwek),łyżka
+99,Jednostka,clove (czosnek),ząbek
+99,Jednostka,Tbsps (sok z limonki),łyżki
+99,Jednostka,servings (papryka),porcje
+99,Jednostka,Tbsp (cukier),łyżka
+99,Jednostka,servings (nuoc cham),porcje
+99,Jednostka,servings (nuoc cham),porcje
+100,Składnik,asparagus,szparagi
+100,Jednostka,bunch (asparagus),pęczek
+100,Jednostka,Tbsp (tymianek),łyżka
+100,Jednostka,cloves (czosnek),ząbki
+100,Jednostka,Tbsps (oliwa z oliwek),łyżki
+100,Jednostka,servings (sól i pieprz),porcje
+100,Jednostka,Tbsps (ocet sherry),łyżki
+101,Jednostka,servings (sól i pieprz),porcje
+102,Jednostka,Tbsps (migdały),łyżki
+102,Jednostka,Tbsps (ocet balsamiczny z granatów),łyżki
+102,Jednostka,Tbsps (musztarda dijon),łyżki
+102,Jednostka,tsp (miód),łyżeczka
+102,Jednostka,Tbsp (oliwa z oliwek),łyżka
+102,Jednostka,servings (sól i pieprz),porcje
+103,Jednostka,servings (mennica),porcje
+103,Jednostka,Tbsps (miód),łyżki
+104,Jednostka,tsps (skórka z limonki),łyżeczki
+104,Jednostka,tsps (sok z limonki),łyżeczki
+104,Jednostka,Tbsp (mennica),łyżka
+105,Jednostka,cloves (czosnek),ząbki
+105,Jednostka,servings (papryka),porcje
+105,Jednostka,servings (sól),porcje
+106,Jednostka,clove (czosnek),ząbek
+106,Jednostka,pinch (sól),szczypta
+107,Jednostka,tsp (odparowany cukier trzcinowy),łyżeczka
+107,Jednostka,tsps (curry w proszku),łyżeczki
+108,Jednostka,Tbsp (cukier granulowany),łyżka
+108,Jednostka,tsp (mielony pieprz),łyżeczka
+108,Jednostka,Tbsps (oliwa z oliwek),łyżki
+108,Jednostka,head (sałata rzymska),główka
+108,Jednostka,Tbsp (sól morska),łyżka
+109,Jednostka,Tbsp (tahini),łyżka
+109,Jednostka,Tbsps (sok z cytryny),łyżki
+109,Jednostka,cloves (czosnek),ząbki
+109,Jednostka,Tbsp (pietruszka),łyżka
+109,Jednostka,tsp (sól),łyżeczka
+110,Jednostka,Tbsps (bazylia),łyżki
+110,Jednostka,Tbsps (oliwa z oliwek),łyżki
+110,Jednostka,Tbsps (ocet balsamiczny),łyżki
+110,Jednostka,servings (sól i pieprz),porcje
+111,Jednostka,tsp (miód),łyżeczka
+111,Jednostka,Dash (sól),szczypta
+112,Jednostka,servings (sól),porcje
+113,Jednostka,clove (czosnek),ząbek
+113,Jednostka,slice (chleb),plasterek
+113,Jednostka,Tbsps (oliwa z oliwek),łyżki
+113,Jednostka,Tbsps (ocet),łyżki
+113,Jednostka,servings (sól),porcje
+114,Składnik,asparagus,szparagi
+114,Jednostka,Tbsps (oliwa z oliwek),łyżki
+114,Jednostka,tsps (sól koszerna),łyżeczki
+114,Jednostka,tsps (świeżo mielony pieprz),łyżeczki
+114,Jednostka,Tbsp (czosnek),łyżka
+114,Jednostka,tsp (tymianek),łyżeczka
+114,Jednostka,tsp (oregano),łyżeczka
+114,Jednostka,tsps (skórka cytrynowa),łyżeczki
+114,Jednostka,tsps (płatki pieprzu),łyżeczki
+114,Jednostka,Tbsps (pietruszka płaskolistna),łyżki
+115,Jednostka,head (brokuł),główka
+115,Jednostka,Tbsps (krem kokosowy),łyżki
+115,Jednostka,servings (sól),porcje
+115,Jednostka,servings (pietruszka),porcje
+116,Jednostka,cloves (czosnek),ząbki
+116,Jednostka,Tbsp (oliwa z oliwek),łyżka
+116,Jednostka,servings (sól i mielony pieprz),porcje
+117,Jednostka,Tbsp (brązowy cukier),łyżka
+117,Jednostka,Tbsps (ożywić),łyżki
+117,Jednostka,tsp (czosnek),łyżeczka
+117,Jednostka,Tbsp (olej sezamowy),łyżka
+117,Jednostka,Tbsps (sos sojowy),łyżki
+118,Jednostka,sprigs (mennica),gałązki
+118,Jednostka,tsp (nasiona czarnuszki),łyżeczka
+119,Jednostka,Tbsps (koncentrat lemoniady),łyżki
+119,Jednostka,Tbsp (cukier),łyżka
+119,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+120,Jednostka,Tbsp (ocet ryżowy),łyżka
+120,Jednostka,slice (bagietka),plasterek
+120,Jednostka,tsp (kminek),łyżeczka
+120,Jednostka,tsps (sól),łyżeczki
+121,Jednostka,Tbsps (kremowe masło orzechowe),łyżki
+122,Jednostka,slice (chleb),plasterek
+122,Jednostka,Tbsps (brązowy cukier),łyżki
+122,Jednostka,tsp (cynamon),łyżeczka
+122,Jednostka,servings (syrop klonowy),porcje
+122,Jednostka,tsps (gałka muszkatołowa),łyżeczki
+122,Jednostka,tsps (przyprawa do ciasta dyniowego),łyżeczki
+122,Jednostka,tsps (wanilia),łyżeczki
+123,Jednostka,cloves (czosnek),ząbki
+123,Jednostka,tsps (odżywcze płatki drożdżowe),łyżeczki
+123,Jednostka,Tbsp (sok z cytryny),łyżka
+123,Jednostka,servings (sól),porcje
+124,Jednostka,Tbsps (jogurt),łyżki
+124,Jednostka,tsps (cukier),łyżeczki
+124,Jednostka,tsps (proszek cynamonowy),łyżeczki
+125,Jednostka,servings (płatki kolendry),porcje
+125,Jednostka,Tbsp (guacamole),łyżka
+125,Jednostka,servings (papryka),porcje
+125,Jednostka,servings (smażona fasola),porcje
+125,Jednostka,servings (meksykański ser mieszany),porcje
+125,Jednostka,servings (krem),porcje
+126,Jednostka,tsps (chili w proszku),łyżeczki
+126,Jednostka,tsp (sos chili),łyżeczka
+126,Jednostka,tsp (skrobia kukurydziana),łyżeczka
+126,Jednostka,servings (liście curry),porcje
+126,Jednostka,Tbsp (ożywić),łyżka
+126,Jednostka,servings (olej),porcje
+126,Jednostka,Tbsp (sos sojowy),łyżka
+126,Jednostka,tsp (cukier),łyżeczka
+126,Jednostka,Tbsp (sos pomidorowy),łyżka
+127,Jednostka,tsp (papryka ostra),łyżeczka
+127,Jednostka,tsp (kminek),łyżeczka
+127,Jednostka,cloves (czosnek),ząbki
+127,Jednostka,Tbsps (drożdże odżywcze),łyżki
+127,Jednostka,servings (papryka),porcje
+127,Jednostka,tsps (sól),łyżeczki
+127,Jednostka,Tbsps (olej roślinny),łyżki
+128,Jednostka,Tbsps (kolendra),łyżki
+128,Jednostka,tsp (papryka),łyżeczka
+128,Jednostka,tsp (kurkuma),łyżeczka
+128,Jednostka,tsp (papryka ostra),łyżeczka
+128,Jednostka,tsp (sól morska),łyżeczka
+128,Jednostka,Tbsps (bułka tarta),łyżki
+128,Jednostka,Tbsps (oliwa z oliwek),łyżki
+129,Jednostka,Tbsps (oliwa z oliwek),łyżki
+129,Jednostka,Tbsp (sok z cytryny),łyżka
+129,Jednostka,cloves (czosnek),ząbki
+129,Jednostka,Tbsp (szałwia),łyżka
+129,Jednostka,tsps (pieprz),łyżeczki
+129,Jednostka,tsp (sól),łyżeczka
+130,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+130,Jednostka,tsps (sól czosnkowa),łyżeczki
+130,Jednostka,tsps (płatki chili z pieprzem),łyżeczki
+131,Jednostka,servings (bagietka),porcje
+131,Jednostka,bunch (bazylia),pęczek
+131,Jednostka,servings (mielony pieprz),porcje
+131,Jednostka,Tbsp (mleko),łyżka
+132,Jednostka,Tbsp (ser feta),łyżka
+132,Jednostka,serving (zielona cebula),porcja
+132,Jednostka,serving (sól i pieprz),porcja
+132,Jednostka,Tbsp (tzatziki),łyżka
+133,Jednostka,Tbsps (oliwa z oliwek),łyżki
+133,Jednostka,servings (sól i pieprz),porcje
+133,Jednostka,Tbsps (masło),łyżki
+134,Jednostka,Tbsps (fajny bicz),łyżki
+134,Jednostka,tsp (cukier stołowy),łyżeczka
+134,Jednostka,tsps (sok z cytryny),łyżeczki
+135,Jednostka,tsp (liście mięty),łyżeczka
+136,Jednostka,tsp (proszek cynamonowy),łyżeczka
+136,Jednostka,tsps (nasiona kminku),łyżeczki
+136,Jednostka,Tbsp (czosnek),łyżka
+136,Jednostka,Tbsp (sok z cytryny lub),łyżka
+136,Jednostka,tsp (nasiona gorczycy),łyżeczka
+136,Jednostka,servings (sól),porcje
+136,Jednostka,servings (cukier),porcje
+136,Jednostka,Tbsp (olej słonecznikowy),łyżka
+136,Jednostka,tsps (kurkuma),łyżeczki
+137,Jednostka,Tbsps (pietruszka),łyżki
+137,Jednostka,Tbsps (chrzan),łyżki
+137,Jednostka,Tbsps (sok z cytryny),łyżki
+137,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+137,Jednostka,tsp (sól morska),łyżeczka
+137,Jednostka,tsps (mielony pieprz),łyżeczki
+138,Jednostka,servings (pieprz),porcje
+138,Jednostka,Tbsp (brązowy cukier),łyżka
+138,Jednostka,pinches (zioła),szczypty
+138,Jednostka,clove (czosnek),ząbek
+138,Jednostka,Tbsp (olej z pestek winogron),łyżka
+138,Jednostka,Tbsps (sok z cytryny),łyżki
+138,Jednostka,servings (czerwony ocet winny),porcje
+138,Jednostka,tsps (sól),łyżeczki
+139,Jednostka,Tbsp (ocet jabłkowy),łyżka
+139,Jednostka,handfuls (pietruszka),garście
+139,Jednostka,tsp (zioła prowansalskie),łyżeczka
+139,Jednostka,Tbsp (oliwa z oliwek),łyżka
+139,Jednostka,servings (sól morska),porcje
+139,Jednostka,servings (nasiona sezamu do dekoracji),porcje
+139,Jednostka,dash (sos sojowy),szczypta
+139,Jednostka,servings (kolorowy kamień nazębny na podłożu warzywnym. także dotyk),porcje
+139,Jednostka,servings (blender ręczny),porcje
+139,Jednostka,servings (blender ręczny),porcje
+140,Jednostka,Tbsps (mąka),łyżki
+140,Jednostka,tsps (proszek czosnkowy),łyżeczki
+140,Jednostka,tsps (sól),łyżeczki
+140,Jednostka,tsps (mielony pieprz),łyżeczki
+141,Jednostka,pkg (drożdże),opakowanie
+141,Jednostka,Tbsps (mielone siemię lniane),łyżki
+141,Jednostka,Tbsps (ziarno amarantusa),łyżki
+141,Jednostka,Tbsps (niezbędny gluten pszenny),łyżki
+141,Jednostka,tsps (sól),łyżeczki
+142,Jednostka,cloves (czosnek),ząbki
+142,Jednostka,Tbsps (sok z cytryny),łyżki
+142,Jednostka,Tbsps (ocet ryżowy),łyżki
+142,Jednostka,tsps (musztarda dijon),łyżeczki
+142,Jednostka,servings (płatki czerwonej papryki),porcje
+142,Jednostka,servings (sól i pieprz),porcje
+143,Jednostka,Tbsps (brązowy cukier),łyżki
+143,Jednostka,pinch (cayenne),szczypta
+143,Jednostka,inch (ożywić),cm
+143,Jednostka,clove (czosnek),ząbek
+143,Jednostka,Tbsp (ocet ryżowy),łyżka
+143,Jednostka,tsps (sól morska),łyżeczki
+143,Jednostka,Tbsps (olej sezamowy),łyżki
+143,Jednostka,servings (olej sezamowy),porcje
+143,Jednostka,Tbsp (sos tamari),łyżka
+143,Jednostka,tsp (kurkuma),łyżeczka
+144,Jednostka,Tbsps (tahini),łyżki
+144,Jednostka,servings (sól morska),porcje
+144,Jednostka,servings (woda),porcje
+145,Składnik,bok choy,kapusta pak choi
+145,Jednostka,cloves (czosnek),ząbki
+145,Jednostka,Tbsps (olej kokosowy),łyżki
+145,Jednostka,pinch (sól),szczypta
+145,Jednostka,pinch (pieprz),szczypta
+145,Jednostka,pinch (płatki pieprzu),szczypta
+145,Jednostka,Tbsps (migdały),łyżki
+146,Jednostka,tsps (proszek czosnkowy),łyżeczki
+146,Jednostka,tsps (sól),łyżeczki
+146,Jednostka,tsps (pieprz),łyżeczki
+146,Jednostka,tsp (przyprawa),łyżeczka
+147,Jednostka,Tbsps (pietruszka),łyżki
+147,Jednostka,Cloves (czosnek),ząbki
+147,Jednostka,Tbsps (oliwa z oliwek),łyżki
+148,Jednostka,clove (czosnek),ząbek
+148,Jednostka,servings (oliwa z oliwek),porcje
+148,Jednostka,servings (sól i pieprz),porcje
+149,Jednostka,tsps (cayenne),łyżeczki
+149,Jednostka,Tbsp (chili w proszku),łyżka
+149,Jednostka,tsp (kminek),łyżeczka
+149,Jednostka,tsp (tymianek),łyżeczka
+149,Jednostka,bunch (kapusta włoska),pęczek
+149,Jednostka,tsps (oregano),łyżeczki
+149,Jednostka,tsp (mielony pieprz),łyżeczka
+149,Jednostka,tsps (sól morska),łyżeczki
+149,Jednostka,bunch (szpinak),pęczek
+150,Jednostka,Tbsps (oliwa z oliwek),łyżki
+150,Jednostka,tsps (sól i pieprz),łyżeczki
+151,Jednostka,tsp (oliwa z oliwek),łyżeczka
+151,Jednostka,clove (czosnek),ząbek
+151,Jednostka,tsps (sól),łyżeczki
+151,Jednostka,servings (papryka),porcje
+152,Jednostka,Tbsps (oliwa z oliwek),łyżki
+152,Jednostka,servings (sól i pieprz),porcje
+153,Jednostka,bunch (pietruszka o płaskich liściach),pęczek
+153,Jednostka,Tbsps (oliwa z oliwek),łyżki
+153,Jednostka,serving (sól),porcja
+154,Jednostka,tsp (nektar z agawy),łyżeczka
+154,Jednostka,cloves (czosnek),ząbki
+154,Jednostka,tsps (mielony sumak),łyżeczki
+154,Jednostka,tsp (sól koszerna),łyżeczka
+154,Jednostka,Tbsps (sok z cytryny),łyżki
+154,Jednostka,Tbsps (oliwa z oliwek),łyżki
+154,Jednostka,Tbsp (pietruszka),łyżka
+154,Jednostka,servings (sól i pieprz),porcje
+154,Jednostka,Tbsp (za'atar),łyżka
+155,Jednostka,Tbsp (oliwa z oliwek),łyżka
+155,Jednostka,servings (dwukrotną ilość wody),porcje
+155,Jednostka,tsp (kurkuma),łyżeczka
+155,Jednostka,servings (sól i pieprz),porcje
+155,Jednostka,Tbsps (przecier pomidorowy),łyżki
+155,Jednostka,tsp (cm imbiru),łyżeczka
+155,Jednostka,tsp (cynamon),łyżeczka
+155,Jednostka,tsp (garam masala),łyżeczka
+155,Jednostka,tsp (papryka),łyżeczka
+156,Jednostka,Tbsp (olej sezamowy),łyżka
+156,Jednostka,tsp (ożywić),łyżeczka
+156,Jednostka,Tbsp (czosnek),łyżka
+156,Jednostka,Tbsp (sos sojowy),łyżka
+156,Jednostka,servings (sól),porcje
+156,Jednostka,servings (papryka),porcje
+156,Jednostka,tsp (nasiona sezamu),łyżeczka
+157,Jednostka,pinch (płatków chili),szczypta
+157,Jednostka,cloves (czosnek),ząbki
+157,Jednostka,servings (oliwa z oliwek),porcje
+157,Jednostka,servings (sól),porcje
+157,Jednostka,tsps (kurkuma w proszku),łyżeczki
+158,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+158,Jednostka,cloves (czosnek),ząbki
+158,Jednostka,stalk (seler),łodyga
+158,Jednostka,tsps (sól koszerna),łyżeczki
+158,Jednostka,tsp (pieprz),łyżeczka
+159,Jednostka,tsps (pieprz),łyżeczki
+159,Jednostka,tsps (sok z cytryny),łyżeczki
+159,Jednostka,tsp (liście rozmarynu),łyżeczka
+159,Jednostka,servings (sól),porcje
+160,Jednostka,can (pomidory z puszki),puszka
+160,Jednostka,tsp (płatki chili),łyżeczka
+160,Jednostka,pinches (cynamon),szczypty
+160,Jednostka,cloves (czosnek),ząbki
+160,Jednostka,bunch (kapusta włoska),pęczek
+160,Jednostka,Tbsp (oliwa z oliwek),łyżka
+160,Jednostka,Tbsp (rozmaryn),łyżka
+160,Jednostka,servings (sól i pieprz),porcje
+161,Jednostka,Tbsps (ocet jabłkowy),łyżki
+161,Jednostka,servings (proszek cayenne),porcje
+161,Jednostka,servings (proszek czosnkowy),porcje
+161,Jednostka,servings (sól koszerna),porcje
+161,Jednostka,Tbsps (oliwa z oliwek),łyżki
+162,Jednostka,tsps (mennica),łyżeczki
+162,Jednostka,servings (sól i pieprz),porcje
+162,Jednostka,Tbsps (cukier),łyżki
+162,Jednostka,Tbsps (jogurt),łyżki
+163,Jednostka,Tbsps (oliwa z oliwek),łyżki
+163,Jednostka,tsps (sól),łyżeczki
+164,Jednostka,Tbsps (oliwa z oliwek),łyżki
+164,Jednostka,Tbsps (czerwony ocet winny),łyżki
+165,Jednostka,Tbsp (indyjskie curry w proszku),łyżka
+165,Jednostka,servings (cytrynowy),porcje
+165,Jednostka,tsp (papryka),łyżeczka
+165,Jednostka,servings (pietruszka),porcje
+165,Jednostka,servings (sól),porcje
+166,Jednostka,tsp (bazylia),łyżeczka
+166,Jednostka,tsps (nasiona kopru włoskiego),łyżeczki
+167,Jednostka,tsps (skórka cytrynowa),łyżeczki
+167,Jednostka,Tbsps (wyciśnięty sok z cytryny),łyżki
+167,Jednostka,tsp (cukier),łyżeczka
+167,Jednostka,tsps (musztarda dijon),łyżeczki
+167,Jednostka,tsps (sól koszerna),łyżeczki
+167,Jednostka,servings (pieprz),porcje
+167,Jednostka,Tbsps (oliwa z oliwek),łyżki
+167,Jednostka,Tbsps (rodzynki),łyżki
+167,Jednostka,can (fasola garbanzo),puszka
+168,Jednostka,bunch (zielona cebula),pęczek
+168,Jednostka,can (paczka kukurydzy),puszka
+168,Jednostka,cans (pomidory rotel i chili),puszki
+168,Jednostka,bunch (kolendra),pęczek
+168,Jednostka,Tbsps (czosnek),łyżki
+168,Jednostka,tsps (gorący sos),łyżeczki
+168,Jednostka,servings (sól i pieprz),porcje
+169,Jednostka,Tbsp (oliwa z oliwek),łyżka
+169,Jednostka,tsp (sumak w proszku),łyżeczka
+169,Jednostka,handful (liście szałwii i mięty),garść
+170,Jednostka,servings (makaron dyniowy),porcje
+170,Jednostka,Tbsps (oliwa z oliwek),łyżki
+170,Jednostka,cloves (czosnek),ząbki
+170,Jednostka,pinch (sól morska),szczypta
+170,Jednostka,servings (smażony koper włoski),porcje
+170,Jednostka,Tbsp (oliwa z oliwek),łyżka
+170,Jednostka,Tbsp (koperek),łyżka
+171,Jednostka,Tbsp (proszek czosnkowy),łyżka
+171,Jednostka,tsp (oliwa z oliwek),łyżeczka
+172,Jednostka,tsps (chili w proszku),łyżeczki
+172,Jednostka,Tbsp (oliwa z oliwek),łyżka
+173,Jednostka,Tbsp (czosnek),łyżka
+173,Jednostka,servings (mielony pieprz),porcje
+174,Jednostka,servings (sól i pieprz),porcje
+174,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+174,Jednostka,Tbsps (ocet jabłkowy),łyżki
+175,Jednostka,cloves (czosnek),ząbki
+175,Jednostka,tsps (sól),łyżeczki
+175,Jednostka,tsps (pieprz),łyżeczki
+175,Jednostka,tsps (kurkuma),łyżeczki
+175,Jednostka,tsps (curry),łyżeczki
+176,Jednostka,tsp (kminek),łyżeczka
+176,Jednostka,servings (pietruszka),porcje
+176,Jednostka,Tbsp (sok z cytryny),łyżka
+176,Jednostka,servings (oliwa z oliwek),porcje
+176,Jednostka,servings (papryka),porcje
+176,Jednostka,servings (sól),porcje
+177,Jednostka,Tbsps (mąka),łyżki
+177,Jednostka,cloves (czosnek),ząbki
+177,Jednostka,Tbsps (sok z cytryny),łyżki
+177,Jednostka,Tbsp (oliwa z oliwek),łyżka
+177,Jednostka,Tbsps (parmezan),łyżki
+177,Jednostka,servings (sól i pieprz),porcje
+178,Jednostka,tsp (koperek),łyżeczka
+178,Jednostka,Tbsp (oliwa z oliwek),łyżka
+178,Jednostka,servings (papryka),porcje
+178,Jednostka,servings (sól morska),porcje
+179,Jednostka,handfuls (szpinak),garście
+179,Jednostka,clove (czosnek),ząbek
+179,Jednostka,Tbsp (sok z cytryny),łyżka
+179,Jednostka,Tbsp (tahini),łyżka
+179,Jednostka,Tbsp (oliwa z oliwek),łyżka
+179,Jednostka,Tbsps (woda),łyżki
+179,Jednostka,tsps (mielony kminek),łyżeczki
+179,Jednostka,Tbsps (harissa),łyżki
+180,Jednostka,tsps (papryka),łyżeczki
+180,Jednostka,tsps (gruba sól morska),łyżeczki
+180,Jednostka,tsps (mielony pieprz),łyżeczki
+180,Jednostka,Tbsps (oliwa z oliwek),łyżki
+181,Jednostka,Tbsp (nasiona sezamu),łyżka
+181,Jednostka,Tbsp (stalówki kakaowe),łyżka
+181,Jednostka,Tbsps (nasiona chia),łyżki
+181,Jednostka,Tbsp (jagody goji),łyżka
+181,Jednostka,tsps (proszek lucuma),łyżeczki
+181,Jednostka,Tbsp (pestki dyni),łyżka
+182,Jednostka,Tbsps (mleko beztłuszczowe),łyżki
+182,Jednostka,serving (papryka),porcja
+183,Jednostka,head (czosnek),główka
+183,Jednostka,tsp (sól koszerna),łyżeczka
+183,Jednostka,tsp (liście rozmarynu),łyżeczka
+183,Jednostka,bunch (jarmuż dinozaura),pęczek
+184,Jednostka,Tbsps (oliwa z oliwek),łyżki
+184,Jednostka,cloves (czosnek),ząbki
+184,Jednostka,tsps (sól),łyżeczki
+184,Jednostka,bunch (pietruszka),pęczek
+185,Jednostka,Tbsps (oliwa z oliwek),łyżki
+185,Jednostka,cloves (czosnek),ząbki
+185,Jednostka,pinch (sól),szczypta
+185,Jednostka,sprig (bazylia),gałązka
+185,Jednostka,Tbsps (pikantny sos orzechowy trader joe's),łyżki
+186,Jednostka,tsp (ocet balsamiczny),łyżeczka
+186,Jednostka,tsp (kminek),łyżeczka
+186,Jednostka,clove (czosnek),ząbek
+187,Jednostka,tsps (pieprz),łyżeczki
+187,Jednostka,tsps (chili w proszku),łyżeczki
+187,Jednostka,tsps (kminek),łyżeczki
+187,Jednostka,Tbsps (kolendra),łyżki
+187,Jednostka,servings (wierzchołki zielonej cebuli),porcje
+187,Jednostka,servings (sól),porcje
+187,Jednostka,tsps (pieprz),łyżeczki
+188,Jednostka,cloves (czosnek),ząbki
+188,Jednostka,Tbsps (oliwa z oliwek),łyżki
+188,Jednostka,pinch (sól morska),szczypta
+188,Jednostka,tsps (grunt),łyżeczki
+189,Jednostka,Tbsps (zielona cebula),łyżki
+189,Jednostka,Tbsp (szczypiorek),łyżka
+189,Jednostka,Tbsp (kolendra),łyżka
+189,Jednostka,Tbsp (tajska bazylia),łyżka
+189,Jednostka,tsps (ożywić),łyżeczki
+189,Jednostka,Tbsp (sok z limonki),łyżka
+189,Jednostka,tsp (ocet ryżowy),łyżeczka
+189,Jednostka,servings (sos habanero i chili),porcje
+189,Jednostka,servings (sól i pieprz),porcje
+189,Jednostka,servings (oliwa z oliwek do posmarowania),porcje
+190,Jednostka,Tbsps (szczypiorek),łyżki
+190,Jednostka,serving (sól i pieprz),porcja
+191,Jednostka,tsps (curry w proszku),łyżeczki
+191,Jednostka,tsps (garam masala),łyżeczki
+191,Jednostka,tsps (mielona kolendra),łyżeczki
+191,Jednostka,tsps (mielony kminek),łyżeczki
+191,Jednostka,tsps (mielona musztarda w proszku),łyżeczki
+191,Jednostka,tsps (oliwa z oliwek),łyżeczki
+191,Jednostka,tsp (sól morska),łyżeczka
+191,Jednostka,bunch (boćwina szwajcarska),pęczek
+191,Jednostka,Tbsps (woda),łyżki
+192,Jednostka,can (ciecierzyca),puszka
+192,Jednostka,servings (kolendra),porcje
+192,Jednostka,tsps (mielony cynamon),łyżeczki
+192,Jednostka,tsps (mielony kminek),łyżeczki
+192,Jednostka,tsps (mielona kurkuma),łyżeczki
+192,Jednostka,Tbsp (sok z cytryny),łyżka
+192,Jednostka,tsps (oliwa z oliwek),łyżeczki
+192,Jednostka,tsps (papryka),łyżeczki
+192,Jednostka,servings (sól i pieprz),porcje
+192,Jednostka,Tbsps (pasta pomidorowa),łyżki
+193,Jednostka,Tbsps (mennica),łyżki
+193,Jednostka,Tbsp (miód),łyżka
+193,Jednostka,Tbsps (sok z limonki),łyżki
+193,Jednostka,tsps (skórka z limonki),łyżeczki
+193,Jednostka,servings (papryka),porcje
+193,Jednostka,servings (sól),porcje
+193,Jednostka,Tbsp (krem),łyżka
+194,Jednostka,bunch (kapusta włoska),pęczek
+194,Jednostka,servings (płatki pieprzu),porcje
+194,Jednostka,servings (sól i pieprz),porcje
+195,Jednostka,tsp (pieprz),łyżeczka
+195,Jednostka,tsps (cayenne),łyżeczki
+195,Jednostka,tsps (cynamon),łyżeczki
+195,Jednostka,tsps (mielony imbir),łyżeczki
+195,Jednostka,tsps (mielona gałka muszkatołowa),łyżeczki
+195,Jednostka,servings (oliwa z oliwek),porcje
+195,Jednostka,servings (sól),porcje
+195,Jednostka,tsps (kurkuma),łyżeczki
+196,Jednostka,Tbsp (proszek czosnkowy),łyżka
+196,Jednostka,tsp (sól selerowa),łyżeczka
+196,Jednostka,Tbsp (sos worcestershire),łyżka
+196,Jednostka,Tbsp (sól),łyżka
+196,Jednostka,Tbsp (mielony pieprz),łyżka
+196,Jednostka,Tbsp (przyprawa),łyżka
+196,Jednostka,Tbsps (pietruszka),łyżki
+197,Jednostka,Tbsps (konfitury wiśniowe),łyżki
+198,Jednostka,servings (czarna fasola z garnka),porcje
+198,Jednostka,cloves (czosnek),ząbki
+198,Jednostka,Tbsp (kolendra),łyżka
+198,Jednostka,tsps (kminek),łyżeczki
+198,Jednostka,tsps (sól),łyżeczki
+198,Jednostka,tsps (pieprz),łyżeczki
+198,Jednostka,servings (frytki),porcje
+199,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+199,Jednostka,tsps (skórka cytrynowa),łyżeczki
+199,Jednostka,tsp (sok z cytryny),łyżeczka
+200,Jednostka,tsps (proszek do pieczenia),łyżeczki
+200,Jednostka,tsps (sól),łyżeczki
+200,Jednostka,tsp (mielony imbir),łyżeczka
+200,Jednostka,tsps (cynamon),łyżeczki
+200,Jednostka,tsps (gałka muszkatołowa),łyżeczki
+201,Jednostka,Tbsp (pasta czosnkowa),łyżka
+201,Jednostka,tsps (mielony kminek),łyżeczki
+201,Jednostka,tsps (chili w proszku),łyżeczki
+201,Jednostka,tsps (mielona kolendra),łyżeczki
+201,Jednostka,tsps (mielona kurkuma),łyżeczki
+201,Jednostka,tsps (garam masala),łyżeczki
+201,Jednostka,tsps (mielony pieprz),łyżeczki
+201,Jednostka,tsps (sól),łyżeczki
+201,Jednostka,tsp (cukier kokosowy),łyżeczka
+201,Jednostka,can (pomidory z puszki),puszka
+201,Jednostka,cans (ciecierzyca),puszki
+202,Jednostka,Tbsp (masło migdałowe),łyżka
+202,Jednostka,Tbsp (sos jabłkowy),łyżka
+202,Jednostka,Tbsp (granola zbożowa),łyżka
+202,Jednostka,tsps (mielony cynamon),łyżeczki
+202,Jednostka,tsp (miód),łyżeczka
+202,Jednostka,servings (kostki lodu),porcje
+202,Jednostka,tsp (syrop klonowy),łyżeczka
+203,Jednostka,Tbsps (cukier),łyżki
+204,Jednostka,handfuls (liście sałaty),garście
+204,Jednostka,Tbsp (ożywić),łyżka
+204,Jednostka,tsps (sok z cytryny),łyżeczki
+204,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+204,Jednostka,tsps (sól morska),łyżeczki
+205,Jednostka,head (kalafior),główka
+205,Jednostka,Tbsp (olej kokosowy),łyżka
+205,Jednostka,servings (sól),porcje
+206,Jednostka,Tbsps (proszek białka konopnego),łyżki
+207,Składnik,asparagus,szparagi
+207,Jednostka,bunch (asparagus),pęczek
+207,Jednostka,Tbsp (olej kokosowy),łyżka
+207,Jednostka,tsps (bazylia),łyżeczki
+207,Jednostka,servings (papryka),porcje
+207,Jednostka,servings (sól morska),porcje
+208,Jednostka,Tbsp (kolendra),łyżka
+208,Jednostka,Tbsps (majonez na bazie oliwy z oliwek),łyżki
+208,Jednostka,tsps (sól),łyżeczki
+208,Jednostka,tsps (pieprz),łyżeczki
+208,Jednostka,tsp (sok z cytryny),łyżeczka
+209,Jednostka,tsps (sól przyprawowa),łyżeczki
+209,Jednostka,tsp (proszek czosnkowy),łyżeczka
+209,Jednostka,tsp (proszek cebulowy),łyżeczka
+209,Jednostka,servings (pieprz),porcje
+210,Jednostka,tsps (proszek do pieczenia),łyżeczki
+210,Jednostka,Tbsps (sos karmelowy),łyżki
+210,Jednostka,tsp (cynamon),łyżeczka
+210,Jednostka,Tbsps (mąka kokosowa),łyżki
+210,Jednostka,pinch (sól),szczypta
+211,Jednostka,pkg (pico de gallo),opakowanie
+211,Jednostka,tsps (sól czosnkowa),łyżeczki
+211,Jednostka,servings (sól i pieprz),porcje
+211,Jednostka,servings (kolendra),porcje
+212,Jednostka,can (fasola garbanzo),puszka
+212,Jednostka,tsp (kminek),łyżeczka
+212,Jednostka,tsp (papryka),łyżeczka
+212,Jednostka,tsp (sól),łyżeczka
+213,Jednostka,Tbsps (krem kokosowy),łyżki
+213,Jednostka,Tbsps (pietruszka),łyżki
+213,Jednostka,tsp (sok z cytryny),łyżeczka
+213,Jednostka,tsps (sól),łyżeczki
+213,Jednostka,Dash (pieprz),szczypta
+214,Jednostka,tsps (pieprz),łyżeczki
+214,Jednostka,bunch (tymianek),pęczek
+214,Jednostka,cloves (czosnek),ząbki
+214,Jednostka,Tbsps (oliwa z oliwek),łyżki
+214,Jednostka,tsps (sól morska),łyżeczki
+215,Jednostka,servings (ananas),porcje
+215,Jednostka,servings (wiśnie maraschino),porcje
+216,Jednostka,servings (płatki kokosowe),porcje
+217,Jednostka,servings (olej do smażenia),porcje
+217,Jednostka,tsps (mielony pieprz cayenne),łyżeczki
+217,Jednostka,servings (syrop klonowy),porcje
+217,Jednostka,tsps (gałka muszkatołowa),łyżeczki
+217,Jednostka,pinch (sól),szczypta
+217,Jednostka,Tbsp (cukier),łyżka
+217,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+218,Jednostka,tsp (koperek),łyżeczka
+218,Jednostka,Tbsp (oliwa z oliwek),łyżka
+218,Jednostka,servings (sól i pieprz),porcje
+218,Jednostka,Tbsp (cukier),łyżka
+219,Jednostka,Tbsp (miód),łyżka
+220,Jednostka,Tbsp (masło),łyżka
+220,Jednostka,clove (czosnek),ząbek
+220,Jednostka,Tbsp (ożywić),łyżka
+220,Jednostka,Tbsps (olej sezamowy),łyżki
+220,Jednostka,servings (sos sojowy),porcje
+220,Jednostka,dash (cukier),szczypta
+221,Jednostka,Tbsps (oliwa z oliwek),łyżki
+221,Jednostka,tsps (sól),łyżeczki
+221,Jednostka,tsps (kurkuma),łyżeczki
+222,Jednostka,Tbsps (oliwa z oliwek),łyżki
+222,Jednostka,Tbsps (ocet balsamiczny),łyżki
+222,Jednostka,Tbsps (sok pomarańczowy),łyżki
+222,Jednostka,tsp (cukier granulowany),łyżeczka
+222,Jednostka,tsp (sól),łyżeczka
+224,Jednostka,tsps (tymianek),łyżeczki
+224,Jednostka,tsps (sól),łyżeczki
+224,Jednostka,servings (mielony pieprz),porcje
+224,Jednostka,servings (oliwa z oliwek),porcje
+224,Jednostka,servings (pietruszka do dekoracji),porcje
+225,Jednostka,Tbsp (masło),łyżka
+225,Jednostka,servings (sól i pieprz),porcje
+226,Jednostka,servings (sól koszerna),porcje
+227,Jednostka,tsps (musztarda dijon),łyżeczki
+227,Jednostka,Tbsp (nasiona chia),łyżka
+227,Jednostka,tsp (miód),łyżeczka
+227,Jednostka,tsps (sól morska maldon),łyżeczki
+227,Jednostka,tsps (pieprz),łyżeczki
+228,Jednostka,clove (czosnek),ząbek
+228,Jednostka,servings (sól),porcje
+229,Składnik,asparagus,szparagi
+229,Jednostka,Handful (płaska pietruszka),garść
+230,Jednostka,servings (pieprz),porcje
+230,Jednostka,Tbsp (mąka),łyżka
+230,Jednostka,Tbsp (musztarda w proszku),łyżka
+230,Jednostka,tsps (papryka),łyżeczki
+231,Jednostka,tsps (proszek kardamonu),łyżeczki
+231,Jednostka,serving (orzechy),porcja
+232,Jednostka,tsps (estragon),łyżeczki
+232,Jednostka,tsps (pieprz),łyżeczki
+232,Jednostka,servings (sól roślinna),porcje
+233,Jednostka,tsp (bazylia),łyżeczka
+233,Jednostka,cloves (czosnek),ząbki
+233,Jednostka,Tbsp (ketchup),łyżka
+233,Jednostka,Tbsps (oliwa z oliwek),łyżki
+233,Jednostka,tsp (oregano),łyżeczka
+233,Jednostka,tsp (pieprz),łyżeczka
+233,Jednostka,pinch (sól),szczypta
+234,Jednostka,Tbsp (winegret balsamiczny),łyżka
+234,Jednostka,tsp (przyprawa),łyżeczka
+235,Jednostka,tsps (sól koszerna),łyżeczki
+235,Jednostka,Tbsps (sok z cytryny),łyżki
+235,Jednostka,clove (czosnek),ząbek
+235,Jednostka,servings (pieprz),porcje
+236,Jednostka,cloves (czosnek),ząbki
+236,Jednostka,tsps (sól),łyżeczki
+236,Jednostka,tsps (pieprz),łyżeczki
+236,Jednostka,tsps (kurkuma),łyżeczki
+236,Jednostka,tsps (curry),łyżeczki
+237,Jednostka,tsp (kminek),łyżeczka
+237,Jednostka,servings (pietruszka),porcje
+237,Jednostka,Tbsp (sok z cytryny),łyżka
+237,Jednostka,servings (oliwa z oliwek),porcje
+237,Jednostka,servings (papryka),porcje
+237,Jednostka,servings (sól),porcje
+238,Jednostka,servings (noc w wodzie),porcje
+238,Jednostka,Tbsps (syrop słodowy),łyżki
+239,Jednostka,tsp (bazylia),łyżeczka
+239,Jednostka,Tbsp (syrop klonowy),łyżka
+239,Jednostka,tsp (oliwa z oliwek),łyżeczka
+239,Jednostka,Handful (nasiona słonecznika),garść
+240,Jednostka,cloves (czosnek),ząbki
+240,Jednostka,Tbsps (oliwa z oliwek),łyżki
+240,Jednostka,Tbsps (olej sezamowy),łyżki
+240,Jednostka,Tbsps (sos sojowy),łyżki
+240,Jednostka,tsp (cukier),łyżeczka
+240,Jednostka,servings (sól),porcje
+241,Jednostka,Tbsps (liście kolendry),łyżki
+241,Jednostka,Tbsp (sok z cytryny),łyżka
+241,Jednostka,Tbsps (oliwa z oliwek),łyżki
+242,Jednostka,large cloves (czosnek),duże ząbki
+242,Jednostka,Tbsps (ożywić),łyżki
+242,Jednostka,Tbsp (olej z pestek winogron),łyżka
+242,Jednostka,Tbsp (sos sojowy),łyżka
+242,Jednostka,Tbsp (olej sezamowy),łyżka
+242,Jednostka,Tbsps (nasiona sezamu),łyżki
+242,Jednostka,servings (sól),porcje
+243,Jednostka,"Tbsps (bragg's, całkowicie naturalny ocet jabłkowy)",łyżki
+243,Jednostka,pinch (bazylii),szczypta
+243,Jednostka,Tbsps (olej kokosowy),łyżki
+243,Jednostka,pinch (kolendra),szczypta
+243,Jednostka,clove (czosnek),ząbek
+243,Jednostka,pinch (z oregano),szczypta
+243,Jednostka,servings (sól i pieprz),porcje
+243,Jednostka,servings (szpinak),porcje
+244,Jednostka,cans (fasola garbanzo),puszki
+244,Jednostka,Tbsp (chili w proszku),łyżka
+244,Jednostka,Tbsp (kolendra),łyżka
+244,Jednostka,Tbsp (kminek),łyżka
+244,Jednostka,Tbsps (mąka),łyżki
+244,Jednostka,cloves (czosnek),ząbki
+244,Jednostka,servings (sól i pieprz),porcje
+244,Jednostka,tsps (kurkuma),łyżeczki
+244,Jednostka,Tbsps (woda),łyżki
+245,Jednostka,bunch (szałwia),pęczek
+245,Jednostka,cloves (czosnek),ząbki
+245,Jednostka,bunch (z jarmużu),pęczek
+245,Jednostka,servings (sól i pieprz),porcje
+246,Jednostka,tsps (nasiona selera),łyżeczki
+246,Jednostka,Tbsps (ocet jabłkowy),łyżki
+246,Jednostka,tsps (cukier kokosowy),łyżeczki
+246,Jednostka,tsps (musztarda dijon),łyżeczki
+246,Jednostka,Tbsps (świeży szczypiorek),łyżki
+246,Jednostka,tsps (mielony kminek),łyżeczki
+246,Jednostka,Tbsp (drożdże odżywcze),łyżka
+246,Jednostka,servings (sól morska),porcje
+247,Jednostka,bunch (szpinak),pęczek
+247,Jednostka,pkg (makaron ryżowy kuchni tajskiej),opakowanie
+247,Jednostka,pinch (płatki pieprzu – smakuj w miarę dopasowywania smaków),szczypta
+247,Jednostka,pinch (imbir w proszku – posmakuj w miarę dopasowywania smaków),szczypta
+248,Jednostka,Tbsps (pietruszka),łyżki
+248,Jednostka,servings (sól i pieprz),porcje
+248,Jednostka,servings (oliwa z oliwek),porcje
+249,Jednostka,Tbsp (oliwa z oliwek z pierwszego tłoczenia),łyżka
+249,Jednostka,tsp (mielona kolendra),łyżeczka
+249,Jednostka,tsp (mielony kminek),łyżeczka
+249,Jednostka,servings (nasiona sezamu),porcje
+249,Jednostka,tsp (papryka),łyżeczka
+250,Jednostka,serving (sól i pieprz),porcja
+250,Jednostka,leaf (bazylia),liść
+250,Jednostka,Tbsps (ocet balsamiczny),łyżki
+251,Jednostka,tsp (kakao),łyżeczka
+251,Jednostka,tsp (agawa),łyżeczka
+251,Jednostka,Tbsp (chrupiące masło orzechowe),łyżka
+252,Jednostka,tsps (sól),łyżeczki
+252,Jednostka,Tbsp (oliwa z oliwek),łyżka
+252,Jednostka,tsps (mielona kolendra),łyżeczki
+252,Jednostka,tsps (mielony kminek),łyżeczki
+252,Jednostka,Tbsp (sos: my użyliśmy pieczonych pomidorów),łyżka
+253,Jednostka,handfuls (szpinak),garście
+253,Jednostka,clove (czosnek),ząbek
+253,Jednostka,Tbsp (sok z cytryny),łyżka
+253,Jednostka,Tbsp (tahini),łyżka
+253,Jednostka,Tbsp (oliwa z oliwek),łyżka
+253,Jednostka,Tbsps (woda),łyżki
+253,Jednostka,tsps (mielony kminek),łyżeczki
+253,Jednostka,Tbsps (harissa),łyżki
+254,Jednostka,head (sałata masłowa),główka
+254,Jednostka,tsps (musztarda dijon),łyżeczki
+254,Jednostka,tsps (mielony pieprz),łyżeczki
+254,Jednostka,bunch (jarmuż dinozaura),pęczek
+254,Jednostka,Tbsps (presto moscato dolce),łyżki
+254,Jednostka,Tbsps (sok pomarańczowy),łyżki
+254,Jednostka,servings (dekoracja: melasa z granatów),porcje
+255,Jednostka,servings (migdały),porcje
+255,Składnik,olej ew,oliwa z oliwek extra virgin
+255,Jednostka,servings (olej ew),porcje
+255,Jednostka,servings (papryka),porcje
+255,Jednostka,pkt (szafran),opakowanie
+255,Jednostka,servings (sól),porcje
+256,Jednostka,tsps (kminek),łyżeczki
+256,Jednostka,servings (sól i pieprz),porcje
+257,Jednostka,sprigs (rozmaryn),gałązki
+257,Jednostka,Tbsp (oliwa z oliwek),łyżka
+258,Jednostka,bunch (marchewki),pęczek
+258,Jednostka,pinch (kminek),szczypta
+258,Jednostka,pinch (curry w proszku),szczypta
+258,Jednostka,clove (czosnek),ząbek
+258,Jednostka,pinch (pieprz),szczypta
+258,Jednostka,pinch (sól morska),szczypta
+258,Jednostka,bunch (szpinak),pęczek
+259,Jednostka,Tbsps (ocet balsamiczny),łyżki
+259,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+259,Jednostka,leaf (bazylia),liść
+259,Jednostka,clove (czosnek),ząbek
+259,Jednostka,servings (papryka),porcje
+259,Jednostka,servings (sól),porcje
+260,Jednostka,Tbsp (nasiona sezamu),łyżka
+260,Jednostka,Tbsp (stalówki kakaowe),łyżka
+260,Jednostka,Tbsps (nasiona chia),łyżki
+260,Jednostka,Tbsp (jagody goji),łyżka
+260,Jednostka,tsps (proszek lucuma),łyżeczki
+260,Jednostka,Tbsp (pestki dyni),łyżka
+261,Jednostka,tsps (pieprz),łyżeczki
+261,Jednostka,Tbsp (oliwa z oliwek z pierwszego tłoczenia),łyżka
+261,Jednostka,tsps (czosnek),łyżeczki
+261,Jednostka,Tbsps (łagodne miso),łyżki
+261,Jednostka,tsp (sól),łyżeczka
+261,Jednostka,tsp (do 2 estragonu),łyżeczka
+262,Jednostka,tsps (olej z awokado),łyżeczki
+262,Jednostka,tsps (proszek chili z nowego meksyku),łyżeczki
+262,Jednostka,servings (kolendra),porcje
+262,Jednostka,tsps (proszek czosnkowy),łyżeczki
+262,Jednostka,Tbsp (jalapeno),łyżka
+262,Jednostka,tsps (sok z limonki),łyżeczki
+262,Jednostka,tsp (sól),łyżeczka
+263,Jednostka,cloves (czosnek),ząbki
+263,Jednostka,Tbsps (woda),łyżki
+263,Jednostka,tsps (sól morska),łyżeczki
+264,Jednostka,handful (pietruszka o płaskich liściach),garść
+264,Jednostka,Tbsps (oliwa z oliwek),łyżki
+264,Jednostka,servings (papryka),porcje
+264,Jednostka,servings (sól),porcje
+265,Jednostka,Tbsp (ocet balsamiczny),łyżka
+265,Jednostka,tsps (oliwa z oliwek z pierwszego tłoczenia),łyżeczki
+265,Jednostka,serving (sól i pieprz),porcja
+266,Jednostka,Tbsp (nasiona kminku),łyżka
+266,Jednostka,Tbsp (ożywić),łyżka
+266,Jednostka,servings (liście mięty),porcje
+266,Jednostka,Tbsp (miód),łyżka
+266,Jednostka,servings (sól morska),porcje
+267,Jednostka,pkg (mieszanka sosu holenderskiego knorr),opakowanie
+267,Jednostka,Tbsps (pietruszka),łyżki
+267,Jednostka,tsps (przyprawa do owoców morza),łyżeczki
+267,Jednostka,Tbsps (masło),łyżki
+267,Jednostka,tsps (sos worcestershire),łyżeczki
+268,Jednostka,tsps (bazylia),łyżeczki
+268,Jednostka,tsp (mielony pieprz),łyżeczka
+268,Jednostka,tsps (oliwa z oliwek),łyżeczki
+268,Jednostka,tsp (parmezan),łyżeczka
+268,Jednostka,tsps (sól),łyżeczki
+269,Jednostka,tsp (sól),łyżeczka
+269,Jednostka,Tbsps (oliwa z oliwek),łyżki
+269,Jednostka,Tbsps (posiekane migdały),łyżki
+269,Jednostka,Tbsps (posiekane pistacje),łyżki
+269,Jednostka,sprigs (mennica),gałązki
+270,Jednostka,Tbsps (bazylia),łyżki
+270,Jednostka,tsp (mennica),łyżeczka
+270,Jednostka,clove (czosnek),ząbek
+270,Jednostka,Tbsp (oliwa z oliwek),łyżka
+270,Jednostka,servings (sól i pieprz),porcje
+270,Jednostka,tsps (szalotka),łyżeczki
+271,Składnik,asparagus,szparagi
+271,Jednostka,cloves (czosnek),ząbki
+271,Jednostka,tsp (proszek cebulowy),łyżeczka
+271,Jednostka,tsp (mielony pieprz),łyżeczka
+271,Jednostka,tsps (sól koszerna),łyżeczki
+272,Jednostka,heads (brokuł),główki
+272,Jednostka,large cloves (czosnek),duże ząbki
+272,Jednostka,tsps (węgierska papryka),łyżeczki
+272,Jednostka,tsps (papryka),łyżeczki
+272,Jednostka,tsp (sól),łyżeczka
+272,Jednostka,Tbsp (ocet sherry),łyżka
+274,Jednostka,Tbsps (ocet balsamiczny),łyżki
+274,Jednostka,clove (czosnek),ząbek
+274,Jednostka,servings (przyprawa do grilla),porcje
+274,Jednostka,tsp (sok z cytryny),łyżeczka
+274,Jednostka,tsps (skórka cytrynowa),łyżeczki
+274,Jednostka,Tbsps (oliwa z oliwek),łyżki
+274,Jednostka,Tbsps (oregano),łyżki
+274,Jednostka,servings (papryka),porcje
+274,Jednostka,pinch (płatki pieprzu),szczypta
+274,Jednostka,servings (sól),porcje
+275,Jednostka,Tbsps (oliwa z oliwek),łyżki
+275,Jednostka,servings (sól i pieprz do przyprawienia),porcje
+275,Jednostka,large cloves (czosnek),duże ząbki
+275,Jednostka,tsp (tymianek),łyżeczka
+275,Jednostka,tsps (płatki pieprzu),łyżeczki
+275,Jednostka,tsps (sól),łyżeczki
+275,Jednostka,tsps (pieprz),łyżeczki
+276,Jednostka,Tbsps (oliwa z oliwek),łyżki
+276,Jednostka,tsp (sól koszerna),łyżeczka
+276,Jednostka,Tbsps (czosnek),łyżki
+276,Jednostka,tsps (płatki pieprzu),łyżeczki
+276,Jednostka,tsp (sok z cytryny),łyżeczka
+276,Jednostka,Tbsp (miód),łyżka
+276,Jednostka,tsps (świeżo mielony pieprz),łyżeczki
+277,Jednostka,Tbsps (miód),łyżki
+277,Jednostka,Tbsp (sos sriracha),łyżka
+277,Jednostka,Tbsps (sok z limonki),łyżki
+277,Jednostka,Tbsps (oliwa z oliwek),łyżki
+277,Jednostka,servings (sól i pieprz),porcje
+278,Jednostka,tsps (pieprz),łyżeczki
+278,Jednostka,Tbsp (koperek),łyżka
+278,Jednostka,Tbsp (sok z cytryny),łyżka
+278,Jednostka,servings (krążki cytryny),porcje
+278,Jednostka,tsps (sól),łyżeczki
+279,Jednostka,Tbsp (liście tymianku),łyżka
+279,Jednostka,cloves (czosnek),ząbki
+279,Jednostka,servings (papryka),porcje
+279,Jednostka,servings (sól),porcje
+279,Jednostka,tsps (papryka),łyżeczki
+279,Jednostka,Tbsp (olej słonecznikowy),łyżka
+279,Jednostka,tsps (przecier pomidorowy),łyżeczki
+280,Jednostka,servings (kostki przyprawowe),porcje
+280,Jednostka,slice (mango),plasterek
+281,Jednostka,tsps (oliwa z oliwek z pierwszego tłoczenia),łyżeczki
+281,Jednostka,clove (czosnek),ząbek
+281,Jednostka,tsps (mielony pieprz),łyżeczki
+281,Jednostka,tsps (sok z cytryny),łyżeczki
+281,Jednostka,tsps (sól),łyżeczki
+282,Jednostka,pinch (asafetyda),szczypta
+282,Jednostka,tsps (cayenne),łyżeczki
+282,Jednostka,inch (ożywić),cm
+282,Jednostka,cloves (czosnek),ząbki
+282,Jednostka,tsps (mielona kolendra),łyżeczki
+282,Jednostka,tsps (mielony kminek),łyżeczki
+282,Jednostka,servings (mielony pieprz),porcje
+282,Jednostka,Tbsps (oliwa z oliwek),łyżki
+282,Jednostka,tsp (sól morska),łyżeczka
+282,Jednostka,tsp (kurkuma),łyżeczka
+283,Jednostka,tsp (przyprawa suya),łyżeczka
+283,Jednostka,tsps (masło),łyżeczki
+283,Jednostka,handful (marchewki),garść
+283,Jednostka,cloves (czosnek),ząbki
+283,Jednostka,serving (kostki przyprawowe),porcja
+283,Jednostka,handful (papryka),garść
+283,Jednostka,tsp (olej roślinny),łyżeczka
+284,Jednostka,Tbsp (migdały),łyżka
+284,Jednostka,cloves (czosnek),ząbki
+284,Jednostka,servings (sól i pieprz),porcje
+285,Jednostka,Tbsp (pasta miso),łyżka
+285,Jednostka,Tbsps (parmezan),łyżki
+285,Jednostka,Tbsps (orzechy włoskie),łyżki
+285,Jednostka,Tbsp (woda),łyżka
+285,Jednostka,Tbsps (oliwa z oliwek),łyżki
+286,Jednostka,servings (ryż),porcje
+286,Jednostka,tsp (bazylia),łyżeczka
+286,Jednostka,Tbsps (oliwa z oliwek),łyżki
+286,Jednostka,tsp (oregano),łyżeczka
+286,Jednostka,servings (pieprz),porcje
+286,Jednostka,servings (sól i pieprz),porcje
+287,Jednostka,Tbsp (migdały),łyżka
+287,Jednostka,tsps (musztarda dijon),łyżeczki
+287,Jednostka,tsps (tymianek),łyżeczki
+287,Jednostka,tsps (mielony pieprz),łyżeczki
+288,Jednostka,Tbsp (oliwa z oliwek),łyżka
+288,Jednostka,tsp (sok z cytryny),łyżeczka
+288,Jednostka,servings (sól),porcje
+288,Jednostka,tsps (rozmaryn i tymianek),łyżeczki
+289,Jednostka,Tbsps (pietruszka),łyżki
+289,Jednostka,servings (liście pietruszki),porcje
+289,Jednostka,Tbsp (sok z cytryny),łyżka
+289,Jednostka,Tbsp (oliwa z oliwek),łyżka
+289,Jednostka,Tbsps (oliwa z oliwek),łyżki
+289,Jednostka,tsps (sól),łyżeczki
+290,Jednostka,servings (warzywa),porcje
+291,Jednostka,Tbsps (ocet jabłkowy),łyżki
+291,Składnik,asparagus,szparagi
+291,Jednostka,stalks (asparagus),łodygi
+291,Jednostka,Tbsp (ocet balsamiczny),łyżka
+291,Jednostka,tsps (koperek),łyżeczki
+291,Jednostka,cloves (czosnek),ząbki
+291,Jednostka,Tbsp (olej z pestek winogron),łyżka
+291,Jednostka,tsp (zioła prowansalskie),łyżeczka
+291,Jednostka,Tbsp (miód),łyżka
+291,Jednostka,servings (sól i pieprz),porcje
+291,Jednostka,Tbsps (wywar warzywny),łyżki
+292,Jednostka,tsps (braggs płynne aminokwasy),łyżeczki
+292,Jednostka,tsps (curry w proszku),łyżeczki
+292,Jednostka,tsps (proszek imbirowy),łyżeczki
+292,Jednostka,tsps (tryskać sriracha),łyżeczki
+293,Jednostka,servings (oliwa z oliwek z dodatkiem bazylii),porcje
+293,Jednostka,servings (papryka),porcje
+293,Jednostka,pkt (dynia),opakowanie
+293,Jednostka,servings (liście rakiety),porcje
+293,Jednostka,servings (sól ziołowa),porcje
+294,Jednostka,tsps (proszek z nasion kminku),łyżeczki
+294,Jednostka,bunch (kolendra),pęczek
+294,Jednostka,tsps (mielona kolendra),łyżeczki
+294,Jednostka,tsp (oliwa z oliwek),łyżeczka
+294,Jednostka,tsps (nasiona słonecznika),łyżeczki
+295,Jednostka,tsp (masło),łyżeczka
+295,Jednostka,servings (sól i pieprz),porcje
+295,Jednostka,servings (oliwa z oliwek),porcje
+295,Jednostka,servings (ocet balsamiczny),porcje
+296,Jednostka,tsp (proszek do pieczenia),łyżeczka
+296,Jednostka,Tbsp (olej kokosowy),łyżka
+296,Jednostka,tsps (sól),łyżeczki
+296,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+297,Jednostka,tsps (bazylia),łyżeczki
+297,Jednostka,tsps (pietruszka),łyżeczki
+297,Jednostka,tsp (oliwa z oliwek),łyżeczka
+297,Jednostka,Tbsp (suszone pomidory),łyżka
+298,Jednostka,Tbsps (cukier),łyżki
+298,Jednostka,servings (sól koszerna),porcje
+299,Jednostka,Tbsps (krystalizowany imbir),łyżki
+300,Jednostka,tsps (proszek do pieczenia),łyżeczki
+300,Jednostka,tsp (soda oczyszczona),łyżeczka
+300,Jednostka,servings (olej kokosowy),porcje
+300,Jednostka,Tbsps (cukier granulowany),łyżki
+300,Jednostka,tsps (sól),łyżeczki
+301,Jednostka,tsps (proszek do pieczenia),łyżeczki
+301,Jednostka,tsps (sól),łyżeczki
+301,Jednostka,Tbsp (cukier granulowany),łyżka
+301,Jednostka,Tbsps (masło),łyżki
+301,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+302,Jednostka,tsps (proszek do pieczenia),łyżeczki
+302,Jednostka,tsps (sól),łyżeczki
+303,Jednostka,cloves (czosnek),ząbki
+303,Jednostka,Tbsps (krem),łyżki
+303,Jednostka,tsps (pieprz),łyżeczki
+304,Jednostka,tsps (proszek do pieczenia),łyżeczki
+304,Jednostka,tsps (sól),łyżeczki
+304,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+305,Jednostka,Tbsps (komosa ryżowa),łyżki
+305,Jednostka,Tbsps (jogurt grecki),łyżki
+305,Jednostka,Tbsps (cukier),łyżki
+305,Jednostka,pinch (sól morska),szczypta
+305,Jednostka,servings (cynamon),porcje
+305,Jednostka,servings (syrop klonowy),porcje
+306,Jednostka,Tbsps (winegret balsamiczny),łyżki
+307,Jednostka,Tbsp (oliwa z oliwek z pierwszego tłoczenia),łyżka
+307,Jednostka,tsp (ocet balsamiczny),łyżeczka
+307,Jednostka,tsps (oliwa z oliwek z pierwszego tłoczenia),łyżeczki
+308,Jednostka,tsp (proszek cynamonowy),łyżeczka
+308,Jednostka,Tbsps (mleko),łyżki
+308,Jednostka,Tbsp (woda),łyżka
+309,Jednostka,Tbsp (liście hibiskusa),łyżka
+309,Jednostka,tsps (skórka pomarańczowa),łyżeczki
+310,Jednostka,tsps (proszek do pieczenia),łyżeczki
+310,Jednostka,tsp (sól),łyżeczka
+310,Jednostka,Tbsp (cukier),łyżka
+310,Jednostka,Tbsps (masło),łyżki
+310,Jednostka,tsp (cynamon),łyżeczka
+310,Jednostka,tsp (aromat waniliowy),łyżeczka
+311,Jednostka,Tbsps (sok z cytryny),łyżki
+311,Jednostka,Tbsps (kakao w proszku),łyżki
+312,Jednostka,tsp (proszek kardamonu),łyżeczka
+312,Jednostka,Tbsps (mąka pszenna),łyżki
+312,Jednostka,serving (olej),porcja
+313,Jednostka,tsps (sól),łyżeczki
+313,Jednostka,pinch (chili w proszku),szczypta
+313,Jednostka,pinch (cayenne),szczypta
+313,Jednostka,servings (mielony pieprz),porcje
+314,Jednostka,serving (kostki lodu),porcja
+314,Jednostka,serving (żurawiny),porcja
+314,Jednostka,serving (liście mięty),porcja
+317,Jednostka,tsps (sól koszerna),łyżeczki
+317,Jednostka,Tbsps (mleko),łyżki
+317,Jednostka,Tbsp (masło),łyżka
+318,Jednostka,Tbsp (miód),łyżka
+319,Jednostka,tsps (soda oczyszczona),łyżeczki
+319,Jednostka,tsp (cynamon),łyżeczka
+319,Jednostka,tsps (goździki),łyżeczki
+319,Jednostka,tsp (ożywić),łyżeczka
+319,Jednostka,Tbsp (mleko),łyżka
+319,Jednostka,tsps (sól),łyżeczki
+319,Jednostka,tsp (wanilia),łyżeczka
+320,Jednostka,tsps (proszek do pieczenia),łyżeczki
+320,Jednostka,tsps (soda oczyszczona),łyżeczki
+320,Jednostka,tsps (cynamon),łyżeczki
+320,Jednostka,tsps (mielone ziele angielskie),łyżeczki
+320,Jednostka,tsps (mielony imbir),łyżeczki
+320,Jednostka,tsps (mielona gałka muszkatołowa),łyżeczki
+320,Jednostka,Tbsp (olej roślinny),łyżka
+320,Jednostka,Tbsps (ocet),łyżki
+321,Jednostka,Tbsp (proszek do pieczenia),łyżka
+321,Jednostka,tsps (soda oczyszczona),łyżeczki
+321,Jednostka,tsps (cynamon),łyżeczki
+321,Jednostka,Tbsps (mleko),łyżki
+321,Jednostka,tsps (gałka muszkatołowa),łyżeczki
+321,Jednostka,tsps (sól),łyżeczki
+321,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+322,Jednostka,Tbsp (woda),łyżka
+322,Jednostka,tsp (proszek do pieczenia),łyżeczka
+322,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+322,Jednostka,tsps (cynamon),łyżeczki
+322,Jednostka,tsps (stewia),łyżeczki
+322,Jednostka,servings (syrop),porcje
+323,Jednostka,tsps (proszek do pieczenia),łyżeczki
+323,Jednostka,tsps (sól),łyżeczki
+323,Jednostka,Tbsps (bazylia),łyżki
+324,Jednostka,tsps (soda oczyszczona),łyżeczki
+324,Jednostka,tsps (proszek do pieczenia),łyżeczki
+324,Jednostka,Tbsps (masło),łyżki
+324,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+324,Jednostka,tsps (sól),łyżeczki
+325,Jednostka,tsp (proszek do pieczenia),łyżeczka
+325,Jednostka,tsp (pasta/ekstrakt z ziaren wanilii),łyżeczka
+325,Jednostka,pinch (himalajska sól morska),szczypta
+325,Jednostka,Handful (jagody),garść
+325,Jednostka,Handful (stalówki kakaowe),garść
+325,Jednostka,Handful (czekolada),garść
+326,Jednostka,bunch (zielona cebula),pęczek
+326,Jednostka,bag (ziemniaki),opakowanie
+326,Jednostka,servings (sól i pieprz),porcje
+327,Jednostka,Tbsps (ocet),łyżki
+327,Jednostka,Tbsps (woda),łyżki
+327,Jednostka,Tbsps (majonez),łyżki
+327,Jednostka,tsps (przyprawa),łyżeczki
+327,Jednostka,tsps (cukier),łyżeczki
+327,Jednostka,tsps (sól),łyżeczki
+327,Jednostka,tsps (pieprz),łyżeczki
+327,Jednostka,tsps (proszek czosnkowy),łyżeczki
+328,Jednostka,Tbsps (masło),łyżki
+328,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+329,Jednostka,Tbsps (oliwa z oliwek),łyżki
+329,Jednostka,large cloves (czosnek),duże ząbki
+329,Jednostka,Tbsp (imbir),łyżka
+329,Jednostka,Tbsp (zdrowe tamari),łyżka
+329,Jednostka,dashes (olej sezamowy),szczypty
+329,Jednostka,serving (pieprz),porcja
+330,Jednostka,tsps (kminek w proszku),łyżeczki
+330,Jednostka,tsp (czosnek),łyżeczka
+330,Jednostka,Tbsp (nasiona konopi),łyżka
+330,Jednostka,servings (oliwa z oliwek),porcje
+330,Jednostka,Tbsps (pieprz),łyżki
+330,Jednostka,tsp (sól),łyżeczka
+330,Jednostka,tsp (nasiona sezamu),łyżeczka
+331,Jednostka,tsp (sól),łyżeczka
+331,Jednostka,Tbsps (oliwa z oliwek),łyżki
+331,Jednostka,Tbsps (posiekane migdały),łyżki
+331,Jednostka,Tbsps (posiekane pistacje),łyżki
+331,Jednostka,sprigs (mennica),gałązki
+332,Jednostka,Tbsps (olej sezamowy),łyżki
+332,Jednostka,tsp (czosnek),łyżeczka
+332,Jednostka,tsps (nasiona sezamu),łyżeczki
+332,Jednostka,tsps (sos sojowy),łyżeczki
+332,Jednostka,tsps (ocet ryżowy),łyżeczki
+332,Jednostka,serving (sól i pieprz),porcja
+333,Jednostka,heads (brokuł),główki
+333,Jednostka,large cloves (czosnek),duże ząbki
+333,Jednostka,tsps (węgierska papryka),łyżeczki
+333,Jednostka,tsps (papryka),łyżeczki
+333,Jednostka,tsp (sól),łyżeczka
+333,Jednostka,Tbsp (ocet sherry),łyżka
+334,Jednostka,handful (pomidorki koktajlowe),garść
+334,Jednostka,Tbsp (sok z limonki),łyżka
+334,Jednostka,leaf (liście mięty),liść
+334,Jednostka,handfuls (cebula),garście
+334,Jednostka,pinch (cukier),szczypta
+335,Jednostka,tsps (ziele angielskie w proszku),łyżeczki
+335,Jednostka,cans (ciecierzyca),puszki
+335,Jednostka,tsps (papryka ostra),łyżeczki
+335,Jednostka,servings (opcjonalnie - trochę sera feta),porcje
+335,Jednostka,clove (czosnek),ząbek
+335,Jednostka,Tbsp (miód),łyżka
+335,Jednostka,handful (liście mięty),garść
+335,Jednostka,Tbsp (oliwa z oliwek),łyżka
+335,Jednostka,Tbsps (oliwa z oliwek),łyżki
+335,Jednostka,tsps (papryka w proszku),łyżeczki
+335,Jednostka,servings (zmiel pieprz),porcje
+335,Jednostka,pinch (sól),szczypta
+335,Jednostka,servings (sól),porcje
+336,Jednostka,Tbsp (oliwa z oliwek),łyżka
+336,Jednostka,tsp (mielona kolendra),łyżeczka
+336,Jednostka,serving (sól - do smaku),porcja
+336,Jednostka,tsps (pieprz),łyżeczki
+336,Jednostka,serving (kolendra – do dekoracji),porcja
+337,Jednostka,Handful (nasiona słonecznika),garść
+338,Jednostka,tsp (sól),łyżeczka
+338,Jednostka,tsp (papryka ostra),łyżeczka
+338,Jednostka,tsp (kurkuma),łyżeczka
+338,Jednostka,tsps (kminek),łyżeczki
+338,Jednostka,Tbsps (czerwony ocet winny),łyżki
+338,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+339,Jednostka,Tbsps (koperek),łyżki
+339,Jednostka,Tbsps (pietruszka),łyżki
+339,Jednostka,serving (przyprawa do steków),porcja
+340,Jednostka,Tbsps (sól),łyżki
+340,Jednostka,Tbsp (korzeń imbiru),łyżka
+340,Jednostka,Tbsps (mielona papryczka chili),łyżki
+340,Jednostka,Tbsps (cukier),łyżki
+341,Jednostka,tsps (bazylia),łyżeczki
+341,Jednostka,tsps (mielony imbir),łyżeczki
+341,Jednostka,tsp (miód),łyżeczka
+341,Jednostka,tsps (oregano),łyżeczki
+341,Jednostka,tsps (musztarda zbożowa),łyżeczki
+342,Jednostka,Tbsps (sok pomarańczowy),łyżki
+342,Jednostka,tsps (pasta imbirowa),łyżeczki
+342,Jednostka,tsp (syrop z agawy),łyżeczka
+342,Jednostka,Tbsps (oliwa z oliwek),łyżki
+342,Jednostka,servings (sól i pieprz),porcje
+344,Jednostka,Tbsps (ocet balsamiczny),łyżki
+344,Jednostka,tsps (pieprz),łyżeczki
+344,Jednostka,Tbsp (musztarda dijon),łyżka
+344,Jednostka,tsps (rozmaryn),łyżeczki
+344,Jednostka,tsps (tymianek),łyżeczki
+344,Jednostka,Tbsps (pietruszka),łyżki
+344,Jednostka,tsps (proszek czosnkowy),łyżeczki
+344,Jednostka,tsps (mielony imbir),łyżeczki
+344,Jednostka,servings (warzywa),porcje
+344,Jednostka,tsps (dodatkowa sól),łyżeczki
+344,Jednostka,tsp (sól),łyżeczka
+344,Jednostka,servings (sos balsamiczny),porcje
+345,Jednostka,tsps (czosnek),łyżeczki
+345,Jednostka,Tbsps (salsa zielona),łyżki
+346,Składnik,asparagus,szparagi
+346,Jednostka,Tbsps (alternatywa bez nabiału),łyżki
+346,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+346,Jednostka,tsp (sól koszerna),łyżeczka
+346,Jednostka,cloves (pieczony czosnek),ząbki
+346,Jednostka,Tbsps (woda),łyżki
+347,Jednostka,tsps (ser topiony),łyżeczki
+347,Jednostka,tsp (agawa),łyżeczka
+347,Jednostka,tsps (cynamon),łyżeczki
+348,Jednostka,cloves (czosnek),ząbki
+348,Jednostka,Handful (mennica),garść
+348,Jednostka,servings (oliwa z oliwek),porcje
+348,Jednostka,Handful (pietruszka),garść
+348,Jednostka,servings (sól i pieprz),porcje
+349,Jednostka,Tbsps (miód),łyżki
+349,Jednostka,Tbsp (sos sriracha),łyżka
+349,Jednostka,Tbsps (sok z limonki),łyżki
+349,Jednostka,Tbsps (oliwa z oliwek),łyżki
+349,Jednostka,servings (sól i pieprz),porcje
+350,Jednostka,servings (sól),porcje
+350,Jednostka,Tbsp (oliwa z oliwek),łyżka
+350,Jednostka,bunch (kapusta włoska),pęczek
+350,Jednostka,Tbsp (ocet jabłkowy),łyżka
+350,Jednostka,inches (krwiste pomarańcze),cm
+350,Jednostka,pkg (nasiona granatu),opakowanie
+350,Jednostka,Tbsps (miód),łyżki
+350,Jednostka,Tbsps (sok z cytryny meyera),łyżki
+350,Jednostka,Tbsps (sok pomarańczowy z krwi),łyżki
+350,Jednostka,Tbsps (ocet jabłkowy),łyżki
+350,Jednostka,Tbsps (wywar warzywny),łyżki
+350,Jednostka,servings (sól i pieprz),porcje
+351,Jednostka,Tbsps (ocet balsamiczny),łyżki
+351,Jednostka,tsps (czekolada)),łyżeczki
+351,Jednostka,sprig (zielona cebula),gałązka
+351,Jednostka,dash (pieprz)),szczypta
+351,Jednostka,dash (sól )),szczypta
+352,Jednostka,servings (pieprz),porcje
+352,Jednostka,servings (oliwa z oliwek),porcje
+352,Jednostka,Tbsps (czerwony ocet winny),łyżki
+352,Jednostka,pinch (sól),szczypta
+353,Jednostka,Tbsp (olej do smażenia),łyżka
+353,Jednostka,cloves (czosnek),ząbki
+353,Jednostka,tsps (proszek czosnkowy),łyżeczki
+353,Jednostka,tsps (mielony pieprz),łyżeczki
+353,Jednostka,Tbsp (oliwa z oliwek do skropienia),łyżka
+353,Jednostka,tsp (sól morska),łyżeczka
+354,Jednostka,Tbsps (oliwa z oliwek),łyżki
+354,Jednostka,tsp (czosnek),łyżeczka
+354,Jednostka,pkg (kłoda koziego sera chavrie),opakowanie
+355,Jednostka,inch (imbir - usuń skórę i),cm
+355,Jednostka,sprig (liście kolendry),gałązka
+355,Jednostka,servings (krople oliwy z pierwszego tłoczenia),porcje
+355,Jednostka,servings (pieprz i sól),porcje
+356,Jednostka,tsp (oliwa z oliwek),łyżeczka
+356,Jednostka,tsp (bazylia),łyżeczka
+356,Jednostka,servings (sól),porcje
+356,Jednostka,tsp (płatki pieprzu),łyżeczka
+356,Jednostka,Tbsps (ser feta do dekoracji),łyżki
+357,Jednostka,cloves (czosnek),ząbki
+357,Jednostka,tsp (liście tymianku),łyżeczka
+357,Jednostka,tsp (kminek),łyżeczka
+357,Jednostka,tsps (sól koszerna),łyżeczki
+357,Jednostka,tsp (oregano),łyżeczka
+357,Jednostka,cans (fasola nerkowa),puszki
+358,Jednostka,Cloves (czosnek),ząbki
+359,Jednostka,leaf (liście młodej rukoli),liść
+359,Jednostka,Tbsps (ocet balsamiczny),łyżki
+359,Jednostka,Tbsps (świeży tymianek),łyżki
+359,Jednostka,clove (czosnek),ząbek
+359,Jednostka,tsps (mielona kolendra),łyżeczki
+359,Jednostka,tsps (proszek musztardowy),łyżeczki
+359,Jednostka,Tbsps (oliwa z oliwek),łyżki
+359,Jednostka,servings (pieprz),porcje
+359,Jednostka,tsp (sól morska),łyżeczka
+360,Jednostka,cloves (czosnek),ząbki
+360,Jednostka,servings (mielony pieprz),porcje
+360,Jednostka,tsps (sól),łyżeczki
+360,Jednostka,tsp (cukier puder),łyżeczka
+361,Jednostka,tsps (chili w proszku),łyżeczki
+361,Jednostka,tsp (proszek czosnkowy),łyżeczka
+361,Jednostka,tsps (mielony kminek),łyżeczki
+361,Jednostka,Tbsps (oliwa z oliwek),łyżki
+361,Jednostka,tsp (oregano),łyżeczka
+361,Jednostka,tsp (papryka),łyżeczka
+362,Jednostka,Tbsps (oliwa z oliwek),łyżki
+362,Jednostka,servings (sól i pieprz),porcje
+363,Jednostka,Tbsps (nasiona sezamu),łyżki
+363,Jednostka,Tbsp (oliwa z oliwek),łyżka
+363,Jednostka,Tbsps (sok z cytryny),łyżki
+363,Jednostka,Tbsps (nektar z agawy),łyżki
+363,Jednostka,Tbsps (pasta tahini),łyżki
+363,Jednostka,tsps (sól),łyżeczki
+364,Jednostka,Tbsps (masło orzechowe),łyżki
+364,Jednostka,tsps (sól),łyżeczki
+365,Jednostka,pinch (sól),szczypta
+365,Jednostka,tsps (cukier),łyżeczki
+365,Jednostka,servings (cukier cynamonowy),porcje
+366,Jednostka,tsps (nasiona chia),łyżeczki
+366,Jednostka,Tbsps (miód),łyżki
+366,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+366,Jednostka,Tbsps (mleko),łyżki
+366,Jednostka,Tbsps (serek mascarpone),łyżki
+366,Jednostka,tsp (kakao w proszku),łyżeczka
+366,Jednostka,serving (czekolada i dodatkowe kakao w proszku),porcja
+367,Jednostka,tsp (ekstrakt migdałowy),łyżeczka
+367,Jednostka,Tbsps (dżem jagodowy),łyżki
+367,Jednostka,can (zwykłe bułki półksiężycowe),puszka
+367,Jednostka,tsp (woda),łyżeczka
+367,Jednostka,Tbsp (mąka),łyżka
+367,Jednostka,Tbsps (mleko),łyżki
+367,Jednostka,pinch (sól morska),szczypta
+367,Jednostka,Tbsps (cukier cukierniczy),łyżki
+367,Jednostka,Tbsp (cukier turbinado),łyżka
+369,Jednostka,Tbsps (pieczenie kakao),łyżki
+369,Jednostka,tsps (sól koszerna),łyżeczki
+369,Jednostka,Tbsp (ekstrakt waniliowy),łyżka
+370,Jednostka,Tbsp (prosty syrop),łyżka
+370,Jednostka,tsps (rozmaryn),łyżeczki
+370,Jednostka,serving (kostki lodu),porcja
+371,Jednostka,Tbsps (ketchup),łyżki
+371,Jednostka,tsp (ocet ryżowy),łyżeczka
+371,Jednostka,Tbsp (mirin),łyżka
+371,Jednostka,tsp (proszek czosnkowy),łyżeczka
+371,Jednostka,tsp (papryka),łyżeczka
+371,Jednostka,pinch (papryka ostra),szczypta
+371,Jednostka,Tbsp (woda),łyżka
+372,Jednostka,servings (sól i pieprz),porcje
+372,Jednostka,servings (ocet balsamiczny),porcje
+373,Jednostka,tsps (proszek do pieczenia),łyżeczki
+373,Jednostka,tsp (cynamon),łyżeczka
+373,Jednostka,Tbsps (mleko),łyżki
+373,Jednostka,tsps (sól),łyżeczki
+374,Jednostka,Tbsp (masło),łyżka
+374,Jednostka,Tbsps (mleko),łyżki
+374,Jednostka,tsps (ekstrakt waniliowy),łyżeczki
+374,Jednostka,Tbsp (mąka),łyżka
+374,Jednostka,Tbsps (cukier granulowany),łyżki
+374,Jednostka,Tbsps (kakao w proszku),łyżki
+374,Jednostka,tsps (proszek do pieczenia),łyżeczki
+375,Jednostka,tsp (syrop z agawy),łyżeczka
+375,Jednostka,Tbsps (olej kokosowy),łyżki
+375,Jednostka,Tbsps (okruszki krakersów graham),łyżki
+375,Jednostka,servings (kostki lodu),porcje
+375,Jednostka,Tbsps (kluczowy sok z limonki),łyżki
+375,Jednostka,tsp (skórka z limonki),łyżeczka
+375,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+376,Jednostka,serving (lód),porcja
+376,Jednostka,tsps (prosty syrop),łyżeczki
+377,Jednostka,tsps (proszek kardamonu),łyżeczki
+377,Jednostka,Tbsps (cukier),łyżki
+378,Jednostka,Tbsps (mleko),łyżki
+378,Jednostka,tsp (ekstrakt waniliowy),łyżeczka
+379,Jednostka,serving (mielony cynamon),porcja
+379,Jednostka,serving (jabłka),porcja
+380,Jednostka,Tbsp (sok z cytryny),łyżka
+381,Jednostka,serving (żurawiny),porcja
+381,Jednostka,serving (lód),porcja
+381,Jednostka,Tbsp (cukier),łyżka
+383,Jednostka,tsps (proszek kardamonu),łyżeczki
+383,Jednostka,serving (olej),porcja
+384,Jednostka,tsps (wanilia),łyżeczki
+384,Jednostka,tsps (proszek do pieczenia),łyżeczki
+384,Jednostka,tsps (sól),łyżeczki
+385,Jednostka,stalks (rabarbar),łodygi
+385,Jednostka,handful (jagody),garść
+385,Jednostka,Tbsp (miód),łyżka
+386,Jednostka,handful (rukola),garść
+387,Jednostka,Tbsps (oliwa z oliwek),łyżki
+387,Jednostka,cloves (czosnek),ząbki
+387,Jednostka,Tbsps (papryka),łyżki
+387,Jednostka,tsp (chili w proszku),łyżeczka
+387,Jednostka,tsps (oregano),łyżeczki
+387,Jednostka,tsps (mielony pieprz),łyżeczki
+387,Jednostka,tsps (papryka ostra),łyżeczki
+388,Jednostka,head (kalafior),główka
+388,Jednostka,pinch (papryka ostra),szczypta
+388,Jednostka,servings (pietruszka),porcje
+388,Jednostka,cloves (czosnek),ząbki
+388,Jednostka,tsps (sól koszerna),łyżeczki
+388,Jednostka,Tbsps (oliwa z oliwek),łyżki
+390,Jednostka,cloves (czosnek),ząbki
+390,Jednostka,servings (czerwony ocet winny),porcje
+390,Jednostka,servings (sól i pieprz),porcje
+391,Jednostka,Tbsp (ocet balsamiczny),łyżka
+391,Jednostka,tsp (sok z cytryny),łyżeczka
+391,Jednostka,tsp (tymianek),łyżeczka
+391,Jednostka,Tbsp (rozmaryn),łyżka
+391,Jednostka,tsps (sól),łyżeczki
+391,Jednostka,tsps (pieprz),łyżeczki
+391,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+391,Jednostka,Tbsps (ożywić),łyżki
+391,Jednostka,cloves (czosnek),ząbki
+391,Jednostka,tsps (nitki szafranu),łyżeczki
+391,Jednostka,Tbsps (serek mascarpone),łyżki
+392,Jednostka,Tbsp (proszek kolendry),łyżka
+392,Jednostka,sprigs (liście curry),gałązki
+392,Jednostka,Tbsps (ożywić),łyżki
+392,Jednostka,Tbsps (nasiona gorczycy),łyżki
+392,Jednostka,Tbsp (kurkuma w proszku),łyżka
+393,Jednostka,Tbsps (olej słonecznikowy),łyżki
+393,Jednostka,servings (sól i pieprz),porcje
+394,Jednostka,Tbsps (chutney z kolendry),łyżki
+394,Jednostka,Tbsp (liście kozieradki)),łyżka
+394,Jednostka,Tbsps (mąka)),łyżki
+394,Jednostka,Tbsps (liście kolendry),łyżki
+394,Jednostka,tsps (garam masala),łyżeczki
+394,Jednostka,tsp (proszek garam masala),łyżeczka
+394,Jednostka,Tbsp (pasta czosnkowa),łyżka
+394,Jednostka,Tbsp (pasta imbirowo-chili),łyżka
+394,Jednostka,Tbsps (sok z cytryny),łyżki
+394,Jednostka,Tbsps (jogurt),łyżki
+394,Jednostka,tsp (proszek chaat masala),łyżeczka
+394,Jednostka,servings (oliwa z oliwek),porcje
+394,Jednostka,Tbsps (trochę oliwy z oliwek do posmarowania ziemniaków),łyżki
+394,Jednostka,Tbsps (chaat masala),łyżki
+394,Jednostka,tsps (sól),łyżeczki
+394,Jednostka,pinch (sól),szczypta
+395,Jednostka,cans (czarna fasola),puszki
+395,Jednostka,Tbsp (sok z limonki),łyżka
+395,Jednostka,servings (sól i pieprz),porcje
+396,Jednostka,tsps (pieprz),łyżeczki
+396,Jednostka,servings (penne),porcje
+396,Jednostka,tsp (bazylia),łyżeczka
+396,Jednostka,cloves (czosnek),ząbki
+396,Jednostka,Tbsp (serek mascarpone),łyżka
+396,Jednostka,Tbsp (oliwa z oliwek),łyżka
+396,Jednostka,tsp (oregano),łyżeczka
+396,Jednostka,pinch (sól),szczypta
+397,Jednostka,Tbsps (żurawina),łyżki
+397,Jednostka,Tbsp (orzechy włoskie),łyżka
+398,Jednostka,servings (sól i pieprz),porcje
+398,Jednostka,servings (pecorino),porcje
+399,Jednostka,Tbsp (czysty miód),łyżka
+399,Jednostka,head (sałata kędzierzawa),główka
+399,Jednostka,pkg (ser feta),opakowanie
+399,Jednostka,Tbsps (mennica),łyżki
+399,Jednostka,Tbsps (oliwa z oliwek),łyżki
+399,Jednostka,servings (papryka),porcje
+399,Jednostka,servings (sól),porcje
+400,Jednostka,pkt (aktywne drożdże),opakowanie
+400,Jednostka,Tbsps (oliwa z oliwek),łyżki
+400,Jednostka,Tbsps (sok pomarańczowy),łyżki
+400,Jednostka,tsps (sól),łyżeczki
+400,Jednostka,Tbsps (ciepła woda),łyżki
+401,Jednostka,cloves (czosnek),ząbki
+401,Jednostka,tsps (mielony pieprz),łyżeczki
+401,Jednostka,Tbsps (oliwa z oliwek),łyżki
+401,Jednostka,Tbsps (orzechy pekan)),łyżki
+401,Jednostka,Tbsps (czerwony ocet winny),łyżki
+401,Jednostka,tsp (sól),łyżeczka
+402,Jednostka,Tbsps (oliwa z oliwek),łyżki
+402,Jednostka,servings (cebula),porcje
+402,Jednostka,servings (płatki pieprzu),porcje
+402,Jednostka,Tbsps (pasta tahiti),łyżki
+403,Jednostka,tsps (papryka ostra),łyżeczki
+403,Jednostka,Tbsp (sos sojowy),łyżka
+403,Jednostka,Tbsp (cukier),łyżka
+403,Jednostka,tsps (ocet destylowany),łyżeczki
+404,Jednostka,tsp (sól),łyżeczka
+404,Jednostka,Tbsp (skórka cytrynowa),łyżka
+404,Jednostka,tsps (mielony pieprz),łyżeczki
+404,Jednostka,tsp (zioła prowansalskie),łyżeczka
+405,Jednostka,inch (laska cynamonu),cm
+405,Jednostka,tsps (nasiona gorczycy),łyżeczki
+405,Jednostka,Tbsps (olej),łyżki
+405,Jednostka,tsp (płatki chilli),łyżeczka
+405,Jednostka,servings (sól),porcje
+405,Jednostka,tsp (kurkuma),łyżeczka
+406,Jednostka,Cloves (czosnek),ząbki
+406,Jednostka,tsp (mielony kminek),łyżeczka
+406,Jednostka,tsps (chili w proszku),łyżeczki
+406,Jednostka,tsps (sól),łyżeczki
+406,Jednostka,pinch (pieprz),szczypta
+407,Jednostka,cloves (czosnek),ząbki
+407,Jednostka,Tbsps (olej słonecznikowy),łyżki
+407,Jednostka,Handful (pietruszka),garść
+407,Jednostka,servings (sól i pieprz),porcje
+408,Jednostka,tsps (pieprz),łyżeczki
+408,Składnik,brinjal,bakłażan
+408,Jednostka,cloves (czosnek),ząbki
+408,Jednostka,Tbsps (sok z cytryny),łyżki
+408,Jednostka,servings (liście pietruszki/kolendry),porcje
+408,Jednostka,servings (sól),porcje
+409,Jednostka,servings (oliwa z oliwek),porcje
+409,Jednostka,servings (sól i pieprz),porcje
+410,Jednostka,slice (chleb zbożowy),plasterek
+410,Jednostka,Tbsp (ocet),łyżka
+410,Jednostka,servings (oliwa z oliwek),porcje
+410,Jednostka,cloves (czosnek),ząbki
+410,Jednostka,pinch (płatki chilli),szczypta
+410,Jednostka,bunch (liście szpinaku),pęczek
+410,Jednostka,servings (sól i pieprz),porcje
+411,Jednostka,inch (ożywić),cm
+411,Jednostka,tsp (mielona kurkuma),łyżeczka
+411,Jednostka,servings (miód),porcje
+412,Jednostka,Tbsps (sok z cytryny),łyżki
+412,Jednostka,Tbsps (biały ocet winny),łyżki
+412,Jednostka,Tbsp (szalotka),łyżka
+412,Jednostka,tsps (miód),łyżeczki
+412,Jednostka,tsps (sumak),łyżeczki
+412,Jednostka,servings (sól i pieprz),porcje
+412,Jednostka,slice (chrupiący chleb wieloziarnisty),plasterek
+412,Jednostka,Tbsp (mennica),łyżka
+412,Jednostka,Tbsp (sumak),łyżka
+412,Jednostka,servings (sól i pieprz),porcje
+413,Jednostka,Tbsp (oliwa z oliwek),łyżka
+413,Jednostka,cloves (czosnek),ząbki
+414,Jednostka,tsps (kminek),łyżeczki
+414,Jednostka,tsps (sól),łyżeczki
+414,Jednostka,tsps (pieprz),łyżeczki
+414,Jednostka,Tbsps (nasiona słonecznika),łyżki
+414,Jednostka,Tbsps (pietruszka),łyżki
+415,Jednostka,TB (proszek chili ancho),łyżka
+415,Jednostka,TB (chili chipotle w sosie adobo),łyżka
+415,Jednostka,Tbsp (czosnek),łyżka
+415,Jednostka,tsp (mielona kolendra),łyżeczka
+415,Jednostka,tsp (mielony kminek),łyżeczka
+415,Jednostka,TB (oliwa z oliwek),łyżka
+415,Jednostka,tsp (meksykańskie oregano),łyżeczka
+415,Jednostka,servings (sól i pieprz),porcje
+416,Jednostka,Tbsp (ser feta),łyżka
+416,Jednostka,Tbsps (prażone migdały),łyżki
+416,Jednostka,Tbsp (oliwa z oliwek),łyżka
+416,Jednostka,serving (sól i pieprz),porcja
+417,Jednostka,Tbsps (mleko),łyżki
+417,Jednostka,Tbsps (olej słonecznikowy),łyżki
+417,Jednostka,tsp (drożdże),łyżeczka
+417,Jednostka,tsps (cukier),łyżeczki
+417,Jednostka,tsps (sól),łyżeczki
+417,Jednostka,Tbsps (szczypiorek),łyżki
+417,Jednostka,Tbsps (liście kolendry),łyżki
+417,Jednostka,Tbsps (szpinak),łyżki
+417,Jednostka,servings (mleko do posmarowania chleba),porcje
+418,Jednostka,Tbsps (oliwa z oliwek),łyżki
+418,Jednostka,tsp (proszek czosnkowy),łyżeczka
+418,Jednostka,servings (świeżo mielony pieprz),porcje
+419,Jednostka,tsp (sól koszerna),łyżeczka
+419,Jednostka,tsps (gałka muszkatołowa),łyżeczki
+419,Jednostka,tsps (oliwa z oliwek),łyżeczki
+419,Jednostka,servings (sól i pieprz),porcje
+420,Jednostka,tsp (kminek),łyżeczka
+420,Jednostka,servings (sól i pieprz),porcje
+421,Jednostka,tsp (korzeń imbiru),łyżeczka
+421,Jednostka,Tbsps (miód),łyżki
+421,Jednostka,Tbsp (sos sojowy),łyżka
+421,Jednostka,Tbsps (mirin),łyżki
+421,Jednostka,Tbsp (ocet ryżowy),łyżka
+421,Jednostka,tsps (pasta wasabi),łyżeczki
+422,Jednostka,Tbsps (olej roślinny),łyżki
+422,Jednostka,stalks (seler),łodygi
+422,Jednostka,Tbsp (czosnek),łyżka
+422,Jednostka,Tbsps (sos ostrygowy),łyżki
+422,Jednostka,Tbsps (sos sojowy),łyżki
+422,Jednostka,servings (pasta chili),porcje
+422,Jednostka,servings (kliny limonkowe),porcje
+423,Jednostka,bunch (jarmuż),pęczek
+423,Jednostka,bunch (jarmuż lacinato),pęczek
+423,Jednostka,servings (oliwa z oliwek),porcje
+423,Jednostka,servings (sól),porcje
+423,Jednostka,servings (pieprz),porcje
+423,Jednostka,Tbsps (musztarda dijon),łyżki
+423,Jednostka,Tbsps (liście oregano),łyżki
+423,Jednostka,tsps (sól koszerna),łyżeczki
+423,Jednostka,tsps (płatki pieprzu),łyżeczki
+423,Jednostka,Tbsp (syrop klonowy),łyżka
+423,Jednostka,cloves (czosnek),ząbki
+424,Jednostka,bunch (jarmuż),pęczek
+424,Jednostka,tsps (sól koszerna),łyżeczki
+424,Jednostka,tsps (pieprz),łyżeczki
+424,Jednostka,cloves (czosnek),ząbki
+424,Jednostka,tsps (sok z cytryny),łyżeczki
+424,Jednostka,Tbsp (oliwa z oliwek),łyżka
+425,Jednostka,pinch (proszek do pieczenia),szczypta
+425,Jednostka,tsps (proszek kardamonu),łyżeczki
+425,Jednostka,tsps (proszek cynamonowy),łyżeczki
+425,Jednostka,tsp (proszek kolendry),łyżeczka
+425,Jednostka,tsp (kminek w proszku),łyżeczka
+425,Jednostka,Tbsp (ożywić),łyżka
+425,Jednostka,tsps (mielony koper włoski),łyżeczki
+425,Jednostka,servings (sól),porcje
+425,Jednostka,Tbsps (olej słonecznikowy),łyżki
+425,Jednostka,tsps (kurkuma),łyżeczki
+426,Jednostka,tsps (pieprz),łyżeczki
+426,Jednostka,tsps (kolendra),łyżeczki
+426,Jednostka,tsps (kminek),łyżeczki
+426,Jednostka,tsp (czosnek),łyżeczka
+426,Jednostka,tsps (sól koszerna),łyżeczki
+426,Jednostka,servings (ser meksykański),porcje
+426,Jednostka,Tbsps (oliwa z oliwek),łyżki
+426,Jednostka,tsp (cebula),łyżeczka
+426,Jednostka,tsps (oregano),łyżeczki
+426,Jednostka,bag (sałata rzymska),opakowanie
+426,Jednostka,Tbsp (ocet),łyżka
+427,Jednostka,servings (sól),porcje
+427,Jednostka,Tbsp (oliwa z oliwek),łyżka
+427,Jednostka,Tbsp (sok z cytryny),łyżka
+428,Składnik,asparagus,szparagi
+428,Jednostka,pinch (sól morska i świeżo mielony pieprz),szczypta
+429,Jednostka,bottle (sos ze skrzydełek bawolego),butelka
+429,Jednostka,tsp (curry w proszku),łyżeczka
+429,Jednostka,tsp (proszek czosnkowy),łyżeczka
+429,Jednostka,Tbsps (drożdże odżywcze),łyżki
+429,Jednostka,tsp (proszek cebulowy),łyżeczka
+430,Jednostka,tsp (olej),łyżeczka
+430,Jednostka,servings (kolendra),porcje
+430,Jednostka,tsp (kminek),łyżeczka
+430,Jednostka,servings (sól i pieprz),porcje
+430,Jednostka,tsps (miód),łyżeczki
+431,Jednostka,tsps (chili w proszku),łyżeczki
+431,Jednostka,Tbsps (ser cheddar o obniżonej zawartości tłuszczu),łyżki
+431,Jednostka,serving (sól),porcja
+432,Jednostka,servings (sól i pieprz),porcje
+433,Jednostka,pinch (pieprz),szczypta
+433,Jednostka,Tbsp (oliwa z oliwek z pierwszego tłoczenia),łyżka
+433,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+433,Jednostka,Tbsp (rozmaryn),łyżka
+433,Jednostka,Tbsp (czosnek),łyżka
+433,Jednostka,Tbsp (majonez),łyżka
+433,Jednostka,Tbsp (oregano),łyżka
+433,Jednostka,tsps (pieprz),łyżeczki
+433,Jednostka,Tbsps (orzeszki piniowe),łyżki
+433,Jednostka,tsps (sól),łyżeczki
+433,Jednostka,tsp (sól),łyżeczka
+433,Jednostka,Tbsp (tymianek),łyżka
+434,Jednostka,Tbsps (migdały),łyżki
+434,Jednostka,Tbsps (ocet balsamiczny z granatów),łyżki
+434,Jednostka,Tbsps (musztarda dijon),łyżki
+434,Jednostka,tsp (miód),łyżeczka
+434,Jednostka,Tbsp (oliwa z oliwek),łyżka
+434,Jednostka,servings (sól i pieprz),porcje
+435,Jednostka,servings (mennica),porcje
+435,Jednostka,Tbsps (miód),łyżki
+436,Jednostka,bunch (kolendra),pęczek
+436,Jednostka,clove (czosnek),ząbek
+436,Jednostka,servings (papryka),porcje
+436,Jednostka,servings (sól),porcje
+437,Jednostka,tsp (proszek cynamonowy),łyżeczka
+437,Jednostka,tsps (nasiona kminku),łyżeczki
+437,Jednostka,Tbsp (czosnek),łyżka
+437,Jednostka,Tbsp (sok z cytryny lub),łyżka
+437,Jednostka,tsp (nasiona gorczycy),łyżeczka
+437,Jednostka,servings (sól),porcje
+437,Jednostka,servings (cukier),porcje
+437,Jednostka,Tbsp (olej słonecznikowy),łyżka
+437,Jednostka,tsps (kurkuma),łyżeczki
+438,Jednostka,Tbsps (pietruszka),łyżki
+438,Jednostka,Tbsps (chrzan),łyżki
+438,Jednostka,Tbsps (sok z cytryny),łyżki
+438,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+438,Jednostka,tsp (sól morska),łyżeczka
+438,Jednostka,tsps (mielony pieprz),łyżeczki
+440,Jednostka,servings (pieprz),porcje
+440,Jednostka,Tbsp (brązowy cukier),łyżka
+440,Jednostka,pinches (zioła),szczypty
+440,Jednostka,clove (czosnek),ząbek
+440,Jednostka,Tbsp (olej z pestek winogron),łyżka
+440,Jednostka,Tbsps (sok z cytryny),łyżki
+440,Jednostka,servings (czerwony ocet winny),porcje
+440,Jednostka,tsps (sól),łyżeczki
+441,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+441,Jednostka,tsps (sól),łyżeczki
+441,Jednostka,dash (pieprz),szczypta
+441,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+442,Jednostka,bunch (kolendra),pęczek
+442,Jednostka,servings (kolejny łyk oliwy z czerwonych pomarańczy),porcje
+442,Jednostka,tsps (oliwa z oliwek z krwi i pomarańczy mollie stone's),łyżeczki
+442,Jednostka,servings (posypka czosnkowo-pieprzowa),porcje
+442,Jednostka,servings (sól i pieprz),porcje
+443,Jednostka,Tbsp (ocet jabłkowy),łyżka
+443,Jednostka,handfuls (pietruszka),garście
+443,Jednostka,tsp (zioła prowansalskie),łyżeczka
+443,Jednostka,Tbsp (oliwa z oliwek),łyżka
+443,Jednostka,servings (sól morska),porcje
+443,Jednostka,servings (nasiona sezamu do dekoracji),porcje
+443,Jednostka,dash (sos sojowy),szczypta
+443,Jednostka,servings (kolorowy kamień nazębny na podłożu warzywnym. także dotyk),porcje
+443,Jednostka,servings (blender ręczny),porcje
+443,Jednostka,servings (blender ręczny),porcje
+444,Jednostka,Tbsps (oliwa z oliwek),łyżki
+444,Jednostka,servings (sól i pieprz),porcje
+445,Jednostka,bunch (koperek),pęczek
+445,Jednostka,bunch (pietruszka),pęczek
+445,Jednostka,servings (sól morska),porcje
+445,Jednostka,tsps (mielony pieprz),łyżeczki
+445,Jednostka,tsp (papryka),łyżeczka
+445,Jednostka,Tbsp (tymianek),łyżka
+445,Jednostka,Tbsps (nierafinowany olej słonecznikowy),łyżki
+447,Jednostka,Tbsps (mąka),łyżki
+447,Jednostka,tsps (proszek czosnkowy),łyżeczki
+447,Jednostka,tsps (sól),łyżeczki
+447,Jednostka,tsps (mielony pieprz),łyżeczki
+448,Jednostka,pkg (drożdże),opakowanie
+448,Jednostka,Tbsps (mielone siemię lniane),łyżki
+448,Jednostka,Tbsps (ziarno amarantusa),łyżki
+448,Jednostka,Tbsps (niezbędny gluten pszenny),łyżki
+448,Jednostka,tsps (sól),łyżeczki
+449,Jednostka,cloves (czosnek),ząbki
+449,Jednostka,Tbsps (sok z cytryny),łyżki
+449,Jednostka,Tbsps (ocet ryżowy),łyżki
+449,Jednostka,tsps (musztarda dijon),łyżeczki
+449,Jednostka,servings (płatki czerwonej papryki),porcje
+449,Jednostka,servings (sól i pieprz),porcje
+450,Jednostka,servings (krewetki),porcje
+450,Jednostka,Tbsp (oliwa z oliwek),łyżka
+450,Jednostka,servings (sól i pieprz),porcje
+450,Jednostka,servings (sałatka),porcje
+450,Składnik,1 sałata kosmiczna,1 sałata rzymska
+450,Jednostka,leaf (1 sałata kosmiczna),liść
+450,Jednostka,servings (awokado),porcje
+450,Jednostka,servings (opatrunek),porcje
+451,Jednostka,tsps (sól),łyżeczki
+451,Jednostka,tsps (pieprz),łyżeczki
+451,Jednostka,Tbsp (olej kokosowy),łyżka
+452,Jednostka,servings (żurawiny),porcje
+452,Jednostka,servings (oliwa z oliwek),porcje
+452,Jednostka,servings (pietruszka),porcje
+452,Jednostka,servings (orzeszki piniowe),porcje
+452,Jednostka,servings (sól i pieprz),porcje
+453,Jednostka,Tbsp (olej z pestek winogron),łyżka
+453,Jednostka,head (kapusta włoska),główka
+453,Jednostka,tsp (oregano),łyżeczka
+453,Jednostka,tsps (tymianek),łyżeczki
+453,Jednostka,servings (sól i mielony pieprz),porcje
+454,Jednostka,clove (czosnek),ząbek
+455,Jednostka,bunch (kapusta włoska),pęczek
+455,Jednostka,Tbsps (sok z cytryny),łyżki
+455,Jednostka,Tbsps (sos sojowy),łyżki
+455,Jednostka,Tbsp (syrop klonowy),łyżka
+455,Jednostka,tsp (olej sezamowy),łyżeczka
+455,Jednostka,cloves (czosnek),ząbki
+455,Jednostka,tsp (sól morska),łyżeczka
+455,Jednostka,tsps (ożywić),łyżeczki
+455,Jednostka,servings (nasiona sezamu do dekoracji),porcje
+456,Jednostka,tsp (oliwa z oliwek),łyżeczka
+456,Jednostka,tsps (mielony kminek),łyżeczki
+456,Jednostka,tsps (sól koszerna),łyżeczki
+456,Jednostka,tsps (mielony pieprz),łyżeczki
+456,Jednostka,Tbsps (sos pomidorowy),łyżki
+457,Jednostka,serving (oliwa z oliwek z pierwszego tłoczenia),porcja
+458,Jednostka,pkg (surówka brokułowa),opakowanie
+458,Jednostka,clove (czosnek),ząbek
+458,Jednostka,Tbsp (sok z cytryny),łyżka
+458,Jednostka,Tbsps (pietruszka),łyżki
+458,Jednostka,Tbsp (tymianek),łyżka
+459,Jednostka,Tbsps (curry w proszku),łyżki
+459,Jednostka,Tbsps (liście bazylii),łyżki
+459,Jednostka,servings (sól i pieprz),porcje
+459,Jednostka,Tbsp (olej roślinny do smażenia),łyżka
+460,Jednostka,pinch (proszek do pieczenia),szczypta
+460,Jednostka,tsps (proszek kardamonu),łyżeczki
+460,Jednostka,tsps (proszek cynamonowy),łyżeczki
+460,Jednostka,tsp (proszek kolendry),łyżeczka
+460,Jednostka,tsp (kminek w proszku),łyżeczka
+460,Jednostka,Tbsp (ożywić),łyżka
+460,Jednostka,tsps (mielony koper włoski),łyżeczki
+460,Jednostka,servings (sól),porcje
+460,Jednostka,Tbsps (olej słonecznikowy),łyżki
+460,Jednostka,tsps (kurkuma),łyżeczki
+461,Jednostka,Tbsps (brązowy cukier),łyżki
+461,Jednostka,pinch (cayenne),szczypta
+461,Jednostka,inch (ożywić),cm
+461,Jednostka,clove (czosnek),ząbek
+461,Jednostka,Tbsp (ocet ryżowy),łyżka
+461,Jednostka,tsps (sól morska),łyżeczki
+461,Jednostka,Tbsps (olej sezamowy),łyżki
+461,Jednostka,servings (olej sezamowy),porcje
+461,Jednostka,Tbsp (sos tamari),łyżka
+461,Jednostka,tsp (kurkuma),łyżeczka
+462,Jednostka,leaf (kapusta włoska),liść
+462,Jednostka,Tbsps (oliwa z oliwek),łyżki
+462,Jednostka,servings (sól),porcje
+462,Jednostka,servings (papryka),porcje
+463,Jednostka,tsp (pieprz),łyżeczka
+463,Jednostka,Tbsps (nasiona sezamu),łyżki
+463,Jednostka,cups (oliwa z oliwek z pierwszego tłoczenia),szklanki
+463,Jednostka,tsps (sól koszerna),łyżeczki
+463,Jednostka,bunches (serca sałaty rzymskiej),pęczki
+463,Jednostka,Tbsps (olej sezamowy),łyżki
+463,Jednostka,Tbsps (nasiona sezamu),łyżki
+463,Jednostka,Tbsps (ksylitol),łyżki
+464,Jednostka,Tbsp (proszek czosnkowy),łyżka
+464,Jednostka,tsp (oliwa z oliwek),łyżeczka
+465,Jednostka,stalks (seler),łodygi
+465,Jednostka,can (grzyby),puszka
+465,Jednostka,Tbsps (bulion wołowy),łyżki
+466,Jednostka,Tbsps (tahini),łyżki
+466,Jednostka,servings (sól morska),porcje
+466,Jednostka,servings (woda),porcje
+467,Jednostka,tsps (arënkha msc substytut kawioru),łyżeczki
+467,Jednostka,servings (pieprz),porcje
+467,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+467,Jednostka,head (koper włoski),główka
+467,Jednostka,Tbsps (sok z cytryny),łyżki
+467,Jednostka,servings (łodygi estragonu),porcje
+467,Jednostka,servings (liście estragonu),porcje
+467,Jednostka,bunch (rukiew wodna),pęczek
+467,Jednostka,Tbsp (białe wino),łyżka
+468,Jednostka,tsp (pieprz),łyżeczka
+468,Jednostka,Tbsps (pietruszka),łyżki
+468,Jednostka,Tbsp (czosnek),łyżka
+468,Jednostka,Tbsp (cukier),łyżka
+468,Jednostka,Tbsp (sos worcestershire),łyżka
+469,Jednostka,Tbsps (maślanka),łyżki
+469,Jednostka,servings (sól i pieprz),porcje
+469,Jednostka,Tbsps (masło),łyżki
+470,Jednostka,Tbsp (skrobia kukurydziana),łyżka
+470,Jednostka,Tbsps (curry w proszku),łyżki
+470,Jednostka,clove (czosnek),ząbek
+470,Jednostka,servings (kostki przyprawowe),porcje
+471,Jednostka,servings (opatrunek),porcje
+471,Jednostka,tsps (musztarda),łyżeczki
+471,Jednostka,tsps (nektar z agawy),łyżeczki
+471,Jednostka,tsps (sól),łyżeczki
+471,Jednostka,Tbsps (oliwa z oliwek),łyżki
+473,Jednostka,tsps (proszek czosnkowy),łyżeczki
+473,Jednostka,tsps (sól),łyżeczki
+473,Jednostka,tsps (pieprz),łyżeczki
+473,Jednostka,tsp (przyprawa),łyżeczka
+474,Jednostka,Tbsps (migdały),łyżki
+474,Jednostka,Tbsps (ocet balsamiczny z granatów),łyżki
+474,Jednostka,Tbsps (musztarda dijon),łyżki
+474,Jednostka,tsp (miód),łyżeczka
+474,Jednostka,Tbsp (oliwa z oliwek),łyżka
+474,Jednostka,servings (sól i pieprz),porcje
+475,Jednostka,servings (mennica),porcje
+475,Jednostka,Tbsps (miód),łyżki
+476,Jednostka,tsps (skórka z limonki),łyżeczki
+476,Jednostka,tsps (sok z limonki),łyżeczki
+476,Jednostka,Tbsp (mennica),łyżka
+477,Jednostka,Tbsp (sos chrzanowy),łyżka
+477,Jednostka,Tbsps (kapary),łyżki
+477,Jednostka,Tbsps (bułka tarta),łyżki
+477,Jednostka,tsps (sól morska),łyżeczki
+477,Jednostka,Tbsps (oliwa z oliwek),łyżki
+477,Jednostka,Tbsp (koperek),łyżka
+477,Jednostka,Tbsps (sok z cytryny),łyżki
+478,Jednostka,Tbsp (majonez),łyżka
+478,Jednostka,Tbsps (sok z cytryny),łyżki
+478,Jednostka,Tbsp (seler),łyżka
+478,Jednostka,tsps (pieprz),łyżeczki
+478,Jednostka,servings (sól),porcje
+479,Jednostka,cloves (czosnek),ząbki
+479,Jednostka,servings (papryka),porcje
+479,Jednostka,servings (sól),porcje
+480,Jednostka,pkg (pełny szpinak baby),opakowanie
+480,Jednostka,slice (boczek),plasterek
+480,Jednostka,Tbsps (oliwa z oliwek),łyżki
+480,Jednostka,servings (sól i pieprz),porcje
+480,Jednostka,Tbsps (ocet),łyżki
+481,Jednostka,head (sałata),główka
+481,Jednostka,slice (chleb z kiełkami zbożowymi),plasterek
+482,Jednostka,clove (czosnek),ząbek
+482,Jednostka,pinch (sól),szczypta
+483,Jednostka,tsp (odparowany cukier trzcinowy),łyżeczka
+483,Jednostka,tsps (curry w proszku),łyżeczki
+484,Jednostka,tsp (pieprz),łyżeczka
+484,Jednostka,tsps (kminek),łyżeczki
+484,Jednostka,Tbsps (czosnek),łyżki
+484,Jednostka,Tbsp (sól),łyżka
+485,Jednostka,Tbsps (migdały),łyżki
+485,Jednostka,Tbsps (ocet balsamiczny z granatów),łyżki
+485,Jednostka,Tbsps (musztarda dijon),łyżki
+485,Jednostka,tsp (miód),łyżeczka
+485,Jednostka,Tbsp (oliwa z oliwek),łyżka
+485,Jednostka,servings (sól i pieprz),porcje
+486,Jednostka,can (kukurydza),puszka
+486,Jednostka,bunch (kolendra),pęczek
+486,Jednostka,cloves (czosnek),ząbki
+486,Jednostka,tsp (mielony kminek),łyżeczka
+486,Jednostka,tsp (oregano),łyżeczka
+486,Jednostka,tsps (sól),łyżeczki
+486,Jednostka,bunch (szalotki),pęczek
+487,Jednostka,servings (awokado),porcje
+487,Jednostka,stalks (seler),łodygi
+487,Jednostka,cloves (czosnek),ząbki
+487,Jednostka,Tbsp (oliwa z oliwek),łyżka
+487,Jednostka,servings (oliwki),porcje
+487,Jednostka,servings (sól i pieprz),porcje
+488,Jednostka,servings (mennica),porcje
+488,Jednostka,Tbsps (miód),łyżki
+489,Jednostka,tsps (ożywić),łyżeczki
+489,Jednostka,tsps (asafetyda),łyżeczki
+489,Jednostka,tsp (sól),łyżeczka
+489,Jednostka,servings (olej),porcje
+490,Jednostka,tsps (imbir),łyżeczki
+490,Jednostka,Tbsps (sos sojowy),łyżki
+490,Jednostka,servings (kawałki ananasa),porcje
+490,Jednostka,tsps (olej sezamowy),łyżeczki
+490,Jednostka,tsps (nasiona sezamu),łyżeczki
+490,Jednostka,Tbsps (biały ocet winny),łyżki
+491,Jednostka,Tbsps (syrop klonowy),łyżki
+491,Jednostka,tsps (musztardy dijon),łyżeczki
+491,Jednostka,servings (sól i pieprz),porcje
+491,Jednostka,head (czosnek),główka
+491,Jednostka,tsps (sól),łyżeczki
+491,Jednostka,tsps (proszek czosnkowy),łyżeczki
+491,Jednostka,servings (świeża pietruszka),porcje
+491,Jednostka,Tbsps (nasiona granatu),łyżki
+491,Jednostka,Tbsps (migdały),łyżki
+492,Jednostka,tsps (skórka z limonki),łyżeczki
+492,Jednostka,tsps (sok z limonki),łyżeczki
+492,Jednostka,Tbsp (mennica),łyżka
+493,Jednostka,Tbsps (sok z cytryny meyera),łyżki
+493,Składnik,asparagus,szparagi
+493,Jednostka,bunch (asparagus),pęczek
+493,Jednostka,Tbsp (oliwa z oliwek),łyżka
+493,Jednostka,tsps (zioła prowansalskie),łyżeczki
+493,Jednostka,servings (sól i pieprz),porcje
+493,Jednostka,servings (winegret cytrynowy meyera),porcje
+493,Jednostka,Tbsps (ocet szampański cytrusowy),łyżki
+493,Jednostka,Tbsps (wywar warzywny),łyżki
+493,Jednostka,Tbsps (oliwa z oliwek),łyżki
+493,Jednostka,Tbsps (miód),łyżki
+494,Jednostka,clove (czosnek),ząbek
+494,Jednostka,Tbsps (wyciśnięty sok z cytryny),łyżki
+494,Jednostka,servings (papryka),porcje
+494,Jednostka,Tbsps (czerwony ocet winny),łyżki
+494,Jednostka,servings (sól),porcje
+495,Jednostka,servings (papryka),porcje
+495,Jednostka,Tbsp (miód),łyżka
+495,Jednostka,tsps (oliwa z oliwek),łyżeczki
+495,Jednostka,Tbsps (orzeszki pieprzowe),łyżki
+495,Jednostka,Tbsps (czerwony ocet winny),łyżki
+495,Jednostka,servings (sól i pieprz),porcje
+495,Jednostka,servings (papryka),porcje
+496,Jednostka,Tbsps (ocet balsamiczny),łyżki
+496,Jednostka,tsps (papryka ostra),łyżeczki
+496,Jednostka,Tbsps (kolendra),łyżki
+496,Jednostka,tsps (mielony pieprz),łyżeczki
+496,Jednostka,Tbsps (sok z cytryny),łyżki
+496,Jednostka,tsps (syrop klonowy),łyżeczki
+496,Jednostka,Tbsps (oliwa z oliwek),łyżki
+496,Jednostka,tsps (sól),łyżeczki
+497,Jednostka,Tbsps (oliwa z oliwek z pierwszego tłoczenia),łyżki
+497,Jednostka,cloves (czosnek),ząbki
+497,Jednostka,servings (papryka),porcje
+497,Jednostka,servings (sól),porcje
+497,Jednostka,sprigs (piekielnie),gałązki
+497,Jednostka,sprigs (piekielnie),gałązki
+498,Jednostka,head (kapusta),główka
+498,Jednostka,head (kapusta),główka
+498,Jednostka,tsp (musztarda dijon),łyżeczka
+498,Jednostka,tsp (nasiona kminku),łyżeczka
+498,Jednostka,Tbsp (cukier),łyżka
+498,Jednostka,tsps (sól morska),łyżeczki
+498,Jednostka,serving (kilka mieleń pieprzu),porcja
+499,Jednostka,Tbsp (nierafinowany olej słonecznikowy),łyżka
+499,Jednostka,servings (sól morska),porcje
+499,Jednostka,tsps (mielony pieprz),łyżeczki
+500,Jednostka,tsp (cynamon),łyżeczka
+500,Jednostka,tsps (mielony imbir),łyżeczki
+5,Korekta Jednostki,medium (papryka),średnia sztuka
+6,Korekta Jednostki,large (marchewki),duża sztuka
+9,Korekta Jednostki,small (cebula),mała sztuka
+13,Korekta Jednostki,large (ziemniaki),duża sztuka
+16,Korekta Jednostki,small (kalafior),mała sztuka
+27,Korekta Jednostki,small (jabłko),mała sztuka
+27,Korekta Jednostki,small (banan),mała sztuka
+28,Korekta Jednostki,medium (marchewki),średnia sztuka
+30,Korekta Jednostki,medium (ząbki czosnku),średnia sztuka
+30,Korekta Jednostki,medium (cebula),średnia sztuka
+32,Korekta Jednostki,large (cebula),duża sztuka
+32,Korekta Jednostki,medium (bakłażan),średnia sztuka
+32,Korekta Jednostki,medium (cukinia),średnia sztuka
+32,Korekta Jednostki,medium (pomidory),średnia sztuka
+32,Korekta Jednostki,large (grzyby portobello),duża sztuka
+33,Korekta Jednostki,large head (kalafior),duża główka
+38,Korekta Jednostki,medium (marchewki),średnia sztuka
+38,Korekta Jednostki,medium (bakłażan),średnia sztuka
+38,Korekta Jednostki,small (cebula),mała sztuka
+38,Korekta Jednostki,medium (pomidory),średnia sztuka
+42,Korekta Jednostki,medium (cebula),średnia sztuka
+45,Korekta Jednostki,medium (cebula),średnia sztuka
+46,Korekta Jednostki,medium (cebula),średnia sztuka
+48,Korekta Jednostki,large (liście boćwiny),duża sztuka
+48,Korekta Jednostki,small head (pomarańczowy kalafior),mała główka
+48,Korekta Jednostki,medium (cukinia),średnia sztuka
+48,Korekta Jednostki,large (papryka),duża sztuka
+48,Korekta Jednostki,medium (awokado),średnia sztuka
+49,Korekta Jednostki,medium (papryka),średnia sztuka
+51,Korekta Jednostki,large (glob),duża sztuka
+51,Korekta Jednostki,medium (pomidor),średnia sztuka
+52,Korekta Jednostki,large (marchewki),duża sztuka
+54,Korekta Jednostki,small (papryka),mała sztuka
+68,Korekta Jednostki,small (cebula),mała sztuka
+74,Korekta Jednostki,medium (banan),średnia sztuka
+76,Korekta Jednostki,medium (papryka),średnia sztuka
+77,Korekta Jednostki,small (awokado),mała sztuka
+78,Korekta Jednostki,large (marchewki),duża sztuka
+83,Korekta Jednostki,small (jabłko),mała sztuka
+83,Korekta Jednostki,medium (papryka),średnia sztuka
+84,Korekta Jednostki,small (cebula),mała sztuka
+86,Korekta Jednostki,medium (marchewki),średnia sztuka
+86,Korekta Jednostki,large (rzepa),duża sztuka
+86,Korekta Jednostki,medium (cebula),średnia sztuka
+89,Korekta Jednostki,large (marchewki),duża sztuka
+89,Korekta Jednostki,small (cebula),mała sztuka
+90,Korekta Jednostki,medium (marchewki),średnia sztuka
+90,Korekta Jednostki,medium (bakłażan),średnia sztuka
+90,Korekta Jednostki,small (cebula),mała sztuka
+90,Korekta Jednostki,medium (pomidory),średnia sztuka
+94,Korekta Jednostki,medium (cebula),średnia sztuka
+96,Korekta Jednostki,small (cebula),mała sztuka
+97,Korekta Jednostki,medium (banan),średnia sztuka
+99,Korekta Jednostki,small head (sałata bostońska),mała główka
+99,Korekta Jednostki,small (papryczka chili),mała sztuka
+99,Korekta Jednostki,large (krewetka),duża sztuka
+99,Korekta Jednostki,8-inch (opakowania sajgonek),20 cm (sztuka)
+100,Korekta Jednostki,medium (cebula),średnia sztuka
+102,Korekta Jednostki,small (zielona cebula),mała sztuka
+104,Korekta Jednostki,large (mango),duża sztuka
+107,Korekta Jednostki,medium (banan),średnia sztuka
+112,Korekta Jednostki,medium (awokado),średnia sztuka
+113,Korekta Jednostki,small (cebula),mała sztuka
+116,Korekta Jednostki,large (grzyby portobello),duża sztuka
+116,Korekta Jednostki,large (cebula),duża sztuka
+116,Korekta Jednostki,large (papryczki jalapeno),duża sztuka
+116,Korekta Jednostki,medium (rzymskie pomidory),średnia sztuka
+121,Korekta Jednostki,small (banany),mała sztuka
+125,Korekta Jednostki,medium (wapno),średnia sztuka
+126,Korekta Jednostki,medium (kalafior),średnia sztuka
+127,Korekta Jednostki,large (cebula),duża sztuka
+128,Korekta Jednostki,medium (kalafior),średnia sztuka
+130,Korekta Jednostki,large (batat),duża sztuka
+130,Korekta Jednostki,large (jajka),duża sztuka
+133,Korekta Jednostki,medium (liście bazylii),średnia sztuka
+133,Korekta Jednostki,large (ser mozzarella),duża sztuka
+136,Korekta Jednostki,small pinch (proszek do pieczenia),mała szczypta
+136,Korekta Jednostki,medium (chilli),średnia sztuka
+136,Korekta Jednostki,medium (pomidor),średnia sztuka
+137,Korekta Jednostki,medium (papryka),średnia sztuka
+138,Korekta Jednostki,large (cebula),duża sztuka
+138,Korekta Jednostki,medium (pomidory),średnia sztuka
+139,Korekta Jednostki,small pinch (chili w proszku),mała szczypta
+143,Korekta Jednostki,large (marchew),duża sztuka
+143,Korekta Jednostki,medium (rzodkiewka daikon),średnia sztuka
+144,Korekta Jednostki,medium (rzodkiewki),średnia sztuka
+145,Korekta Jednostki,large (szalotka),duża sztuka
+146,Korekta Jednostki,small (dynia piżmowa),mała sztuka
+146,Korekta Jednostki,large (cebula),duża sztuka
+151,Korekta Jednostki,small (cebula),mała sztuka
+153,Korekta Jednostki,small (ogórki),mała sztuka
+153,Korekta Jednostki,medium (pomidory),średnia sztuka
+154,Korekta Jednostki,small (cebula),mała sztuka
+154,Korekta Jednostki,large (perski ogórek),duża sztuka
+154,Korekta Jednostki,large (chleby pita),duża sztuka
+154,Korekta Jednostki,small bunch (rzodkiewki),mały pęczek
+154,Korekta Jednostki,small head (kapusta włoska),mała główka
+155,Korekta Jednostki,small (kalafior),mała sztuka
+156,Korekta Jednostki,small (wielkości marchewki),mała sztuka
+157,Korekta Jednostki,large (ziemniaki),duża sztuka
+158,Korekta Jednostki,medium (pory),średnia sztuka
+158,Korekta Jednostki,large (brunatne ziemniaki),duża sztuka
+160,Korekta Jednostki,medium (dynia piżmowa),średnia sztuka
+162,Korekta Jednostki,medium (ziemniaki),średnia sztuka
+163,Korekta Jednostki,small (cebula),mała sztuka
+164,Korekta Jednostki,large (bakłażan),duża sztuka
+164,Korekta Jednostki,large (pomidory),duża sztuka
+164,Korekta Jednostki,large (pokrojona cukinia),duża sztuka
+169,Korekta Jednostki,large (pomidor),duża sztuka
+170,Korekta Jednostki,medium (rzymskie pomidory),średnia sztuka
+170,Korekta Jednostki,large (zdusić),duża sztuka
+171,Korekta Jednostki,large can (krem z zupy grzybowej),duża puszka
+171,Korekta Jednostki,medium (cebula),średnia sztuka
+172,Korekta Jednostki,medium (papryka),średnia sztuka
+176,Korekta Jednostki,small (kalafior),mała sztuka
+177,Korekta Jednostki,large (rzymskie pomidory),duża sztuka
+177,Korekta Jednostki,large (szalotka),duża sztuka
+182,Korekta Jednostki,large (dynia piżmowa),duża sztuka
+183,Korekta Jednostki,medium (cebula),średnia sztuka
+185,Korekta Jednostki,large (liście boćwiny),duża sztuka
+185,Korekta Jednostki,small head (pomarańczowy kalafior),mała główka
+185,Korekta Jednostki,medium (cukinia),średnia sztuka
+185,Korekta Jednostki,large (papryka),duża sztuka
+185,Korekta Jednostki,medium (awokado),średnia sztuka
+186,Korekta Jednostki,medium (papryka),średnia sztuka
+187,Korekta Jednostki,small (awokado),mała sztuka
+188,Korekta Jednostki,small (czerwona cebula),mała sztuka
+191,Korekta Jednostki,large (glob),duża sztuka
+191,Korekta Jednostki,medium (pomidor),średnia sztuka
+192,Korekta Jednostki,large (marchewki),duża sztuka
+194,Korekta Jednostki,large (cebula),duża sztuka
+194,Korekta Jednostki,large (ziemniaki),duża sztuka
+195,Korekta Jednostki,small (papryka),mała sztuka
+200,Korekta Jednostki,large (jabłko),duża sztuka
+200,Korekta Jednostki,large (marchew),duża sztuka
+200,Korekta Jednostki,large (jajko),duża sztuka
+201,Korekta Jednostki,small (cebula),mała sztuka
+203,Korekta Jednostki,large (kostki lodu),duża sztuka
+204,Korekta Jednostki,small (melon spadziowy),mała sztuka
+204,Korekta Jednostki,small (ogórek),mała sztuka
+207,Korekta Jednostki,small (cebula dymka),mała sztuka
+208,Korekta Jednostki,medium (awokado),średnia sztuka
+209,Korekta Jednostki,large (ziemniaki),duża sztuka
+214,Korekta Jednostki,medium (seler),średnia sztuka
+214,Korekta Jednostki,medium (cebula),średnia sztuka
+214,Korekta Jednostki,medium (szalotka),średnia sztuka
+221,Korekta Jednostki,medium (cukinia),średnia sztuka
+229,Korekta Jednostki,large (szparagi),duża sztuka
+232,Korekta Jednostki,large (liść laurowy),duża sztuka
+232,Korekta Jednostki,medium (cebula),średnia sztuka
+234,Korekta Jednostki,medium (awokado),średnia sztuka
+235,Korekta Jednostki,large (ogórek cieplarniany),duża sztuka
+237,Korekta Jednostki,small (kalafior),mała sztuka
+239,Korekta Jednostki,small (buraczany),mała sztuka
+241,Korekta Jednostki,small (awokado),mała sztuka
+243,Korekta Jednostki,medium (pomidory),średnia sztuka
+244,Korekta Jednostki,small (cebula),mała sztuka
+245,Korekta Jednostki,large (dynia piżmowa),duża sztuka
+245,Korekta Jednostki,medium (cebula),średnia sztuka
+246,Korekta Jednostki,large (marchew),duża sztuka
+247,Korekta Jednostki,small (szczypiorek),mała sztuka
+248,Korekta Jednostki,medium (kalafior),średnia sztuka
+249,Korekta Jednostki,small (cebula),mała sztuka
+249,Korekta Jednostki,medium (cukinia),średnia sztuka
+250,Korekta Jednostki,large (pomidor),duża sztuka
+254,Korekta Jednostki,small (cebula),mała sztuka
+256,Korekta Jednostki,large (papryka),duża sztuka
+259,Korekta Jednostki,medium (pomidory),średnia sztuka
+262,Korekta Jednostki,large head (kalafior),duża główka
+264,Korekta Jednostki,medium (kalafior),średnia sztuka
+266,Korekta Jednostki,large (marchew),duża sztuka
+274,Korekta Jednostki,medium (oliwki),średnia sztuka
+274,Korekta Jednostki,large (romski pomidor),duża sztuka
+283,Korekta Jednostki,medium (romski pomidor),średnia sztuka
+298,Korekta Jednostki,large (żółtka jaj),duża sztuka
+301,Korekta Jednostki,large (jajko),duża sztuka
+303,Korekta Jednostki,small (cebula),mała sztuka
+303,Korekta Jednostki,small (marchew),mała sztuka
+306,Korekta Jednostki,large (jabłka),duża sztuka
+316,Korekta Jednostki,medium (figi),średnia sztuka
+317,Korekta Jednostki,large (jajka),duża sztuka
+322,Korekta Jednostki,large (jajka),duża sztuka
+329,Korekta Jednostki,large (cebula),duża sztuka
+335,Korekta Jednostki,medium (dynia piżmowa),średnia sztuka
+335,Korekta Jednostki,small (cebula),mała sztuka
+335,Korekta Jednostki,small (papryka),mała sztuka
+336,Korekta Jednostki,medium (posiekana cebula),średnia sztuka
+341,Korekta Jednostki,large (marchew),duża sztuka
+341,Korekta Jednostki,small (koper bulwowy),mała sztuka
+341,Korekta Jednostki,large (kiwi),duża sztuka
+341,Korekta Jednostki,large (truskawki),duża sztuka
+342,Korekta Jednostki,large (pomarańcze),duża sztuka
+344,Korekta Jednostki,medium (cebula),średnia sztuka
+346,Korekta Jednostki,medium (cebula),średnia sztuka
+348,Korekta Jednostki,medium (cebula),średnia sztuka
+353,Korekta Jednostki,medium (grzyby portabella),średnia sztuka
+358,Korekta Jednostki,small (pkt twarde/dodatkowe tofu),mała sztuka
+358,Korekta Jednostki,large (cebula),duża sztuka
+359,Korekta Jednostki,small (czerwona cebula),mała sztuka
+360,Korekta Jednostki,medium (bakłażany),średnia sztuka
+360,Korekta Jednostki,large (cebula),duża sztuka
+361,Korekta Jednostki,large (papryka),duża sztuka
+374,Korekta Jednostki,large (jajko),duża sztuka
+382,Korekta Jednostki,large (ogórek),duża sztuka
+382,Korekta Jednostki,large (liście mięty),duża sztuka
+382,Korekta Jednostki,large (truskawki),duża sztuka
+387,Korekta Jednostki,small (cukinia),mała sztuka
+390,Korekta Jednostki,medium (historyczne pomidory),średnia sztuka
+390,Korekta Jednostki,small (ogórek),mała sztuka
+391,Korekta Jednostki,medium (cukinia),średnia sztuka
+391,Korekta Jednostki,small (cebula),mała sztuka
+392,Korekta Jednostki,large (cebula),duża sztuka
+392,Korekta Jednostki,small (dynia),mała sztuka
+393,Korekta Jednostki,medium (marchewki),średnia sztuka
+393,Korekta Jednostki,large (ziemniaki),duża sztuka
+393,Korekta Jednostki,small (cebula),mała sztuka
+394,Korekta Jednostki,medium (rozmiar - ziemniaki),średnia sztuka
+395,Korekta Jednostki,medium (awokado),średnia sztuka
+397,Korekta Jednostki,small (jabłko),mała sztuka
+397,Korekta Jednostki,small (banan),mała sztuka
+403,Korekta Jednostki,medium (marchewki),średnia sztuka
+405,Korekta Jednostki,large (cebula),duża sztuka
+407,Korekta Jednostki,large (ziemniaki),duża sztuka
+407,Korekta Jednostki,large (cebula),duża sztuka
+407,Korekta Jednostki,large (marchewki),duża sztuka
+412,Korekta Jednostki,medium (złote buraki),średnia sztuka
+413,Korekta Jednostki,large bunch (kapusta włoska),duży pęczek
+416,Korekta Jednostki,medium (rzodkiewka arbuzowa),średnia sztuka
+416,Korekta Jednostki,medium (rzodkiewki śniadaniowe),średnia sztuka
+416,Korekta Jednostki,medium (awokado),średnia sztuka
+416,Korekta Jednostki,medium (jabłko fuji),średnia sztuka
+418,Korekta Jednostki,large (ogórek),duża sztuka
+425,Korekta Jednostki,medium (ząbki czosnku),średnia sztuka
+425,Korekta Jednostki,medium (cebula),średnia sztuka
+428,Korekta Jednostki,large (cebula),duża sztuka
+428,Korekta Jednostki,medium (bakłażan),średnia sztuka
+428,Korekta Jednostki,medium (cukinia),średnia sztuka
+428,Korekta Jednostki,medium (pomidory),średnia sztuka
+428,Korekta Jednostki,large (grzyby portobello),duża sztuka
+429,Korekta Jednostki,large head (kalafior),duża główka
+434,Korekta Jednostki,small (zielona cebula),mała sztuka
+437,Korekta Jednostki,small pinch (proszek do pieczenia),mała szczypta
+437,Korekta Jednostki,medium (chilli),średnia sztuka
+437,Korekta Jednostki,medium (pomidor),średnia sztuka
+438,Korekta Jednostki,medium (papryka),średnia sztuka
+440,Korekta Jednostki,large (cebula),duża sztuka
+440,Korekta Jednostki,medium (pomidory),średnia sztuka
+443,Korekta Jednostki,small pinch (chili w proszku),mała szczypta
+446,Korekta Jednostki,large (cebula),duża sztuka
+451,Korekta Jednostki,large (cukinia spiralnie),duża sztuka
+452,Korekta Jednostki,small (jabłko),mała sztuka
+452,Korekta Jednostki,small (marchew),mała sztuka
+453,Korekta Jednostki,medium (batat),średnia sztuka
+456,Korekta Jednostki,large (awokado),duża sztuka
+456,Korekta Jednostki,small (jalapeno),mała sztuka
+458,Korekta Jednostki,small (cebula),mała sztuka
+458,Korekta Jednostki,large (złote ziemniaki z yukonu),duża sztuka
+460,Korekta Jednostki,medium (ząbki czosnku),średnia sztuka
+460,Korekta Jednostki,medium (cebula),średnia sztuka
+461,Korekta Jednostki,large (marchew),duża sztuka
+461,Korekta Jednostki,medium (rzodkiewka daikon),średnia sztuka
+462,Korekta Jednostki,medium (cebula),średnia sztuka
+464,Korekta Jednostki,large can (krem z zupy grzybowej),duża puszka
+464,Korekta Jednostki,medium (cebula),średnia sztuka
+466,Korekta Jednostki,medium (rzodkiewki),średnia sztuka
+469,Korekta Jednostki,medium (słodkie ziemniaki),średnia sztuka
+473,Korekta Jednostki,small (dynia piżmowa),mała sztuka
+473,Korekta Jednostki,large (cebula),duża sztuka
+474,Korekta Jednostki,small (zielona cebula),mała sztuka
+476,Korekta Jednostki,large (mango),duża sztuka
+480,Korekta Jednostki,large (pasteryzowane jajka),duża sztuka
+480,Korekta Jednostki,small (cebula lub),mała sztuka
+483,Korekta Jednostki,medium (banan),średnia sztuka
+484,Korekta Jednostki,large (cebula),duża sztuka
+485,Korekta Jednostki,small (zielona cebula),mała sztuka
+486,Korekta Jednostki,large (cebula),duża sztuka
+490,Korekta Jednostki,medium (wielkości papryki),średnia sztuka
+492,Korekta Jednostki,large (mango),duża sztuka
+493,Korekta Jednostki,small (ząbek czosnku),mała sztuka
+498,Korekta Jednostki,large (marchew),duża sztuka
+498,Korekta Jednostki,small (cebula),mała sztuka
+499,Korekta Jednostki,large (cebula),duża sztuka
