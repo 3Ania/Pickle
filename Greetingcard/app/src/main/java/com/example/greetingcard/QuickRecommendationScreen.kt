@@ -19,6 +19,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
@@ -334,7 +335,9 @@ fun CookingModeScreen(
         Box(modifier = Modifier.fillMaxWidth().height(300.dp).background(Color(0xFFEEEEEE))) {
             val isAi = recipe.id < 0
             val isPlaceholder = recipe.imageUrl == null
-            val shouldShowSpinner = recipe.isImageLoading || (isAi && isPlaceholder)
+            // Zmieniono logikę: spinner tylko gdy faktycznie trwa ładowanie.
+            // Jeśli nie ładujemy, a URL jest pusty, SubcomposeAsyncImage pokaże blok 'error'.
+            val shouldShowSpinner = recipe.isImageLoading
 
             if (shouldShowSpinner) {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
@@ -345,13 +348,45 @@ fun CookingModeScreen(
                     }
                 }
             } else {
+                val context = LocalContext.current
+                val request = remember(recipe.imageUrl) {
+                    ImageRequest.Builder(context)
+                        .data(recipe.imageUrl)
+                        .crossfade(true)
+                        .listener(
+                            onStart = { Log.d("Coil", "Start ładowania: ${recipe.imageUrl}") },
+                            onSuccess = { _, result -> Log.d("Coil", "Sukces: ${recipe.imageUrl}") },
+                            onError = { _, result -> Log.e("Coil", "Błąd ładowania: ${recipe.imageUrl}, przyczyna: ${result.throwable.message}") }
+                        )
+                        .build()
+                }
+
                 coil.compose.SubcomposeAsyncImage(
-                    model = recipe.imageUrl,
+                    model = request,
                     contentDescription = null,
                     modifier = Modifier.fillMaxSize(),
                     contentScale = ContentScale.Crop,
+                    loading = {
+                        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                            CircularProgressIndicator(strokeWidth = 2.dp)
+                        }
+                    },
                     error = {
-                        Icon(Icons.Default.Menu, null, Modifier.size(64.dp).align(Alignment.Center), tint = Color.Gray)
+                        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                            if (isAi && isPlaceholder) {
+                                Image(
+                                    painter = painterResource(id = R.drawable.gemini_logo),
+                                    contentDescription = null,
+                                    modifier = Modifier.size(150.dp).alpha(0.5f),
+                                    contentScale = ContentScale.Fit
+                                )
+                            } else {
+                                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                                    Icon(Icons.Default.Warning, null, Modifier.size(48.dp), tint = Color.Red)
+                                    Text("Błąd ładowania", style = MaterialTheme.typography.labelSmall)
+                                }
+                            }
+                        }
                     }
                 )
             }

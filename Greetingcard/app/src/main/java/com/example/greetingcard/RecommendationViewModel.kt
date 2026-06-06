@@ -94,18 +94,25 @@ class RecommendationViewModel(
     }
 
     fun generateImageForSelectedRecipe(recipe: RecipeRecommendation) {
-        if (!recipe.imageUrl.isNullOrBlank() && !recipe.imageUrl.contains("flaticon")) return
+        if (!recipe.imageUrl.isNullOrBlank() && !recipe.imageUrl.contains("flaticon")) {
+            Log.d("RecVM", "Zdjęcie już istnieje dla: ${recipe.name}, pomijam generowanie.")
+            return
+        }
+        Log.d("RecVM", "Rozpoczynam generowanie zdjęcia dla: ${recipe.name} (ID: ${recipe.id})")
         updateImageLoadingState(recipe.id, true)
         viewModelScope.launch(kotlinx.coroutines.Dispatchers.IO) {
             try {
                 val ingredientsStr = recipe.ingredientNames.toCleanString()
                 val url = engine.generateImageForRecipe(recipe.name, ingredientsStr)
+                Log.d("RecVM", "Wynik generowania zdjęcia dla ${recipe.id}: $url")
                 if (url != null) {
                     applyNewImageUrl(recipe.id, url)
                 } else {
+                    Log.e("RecVM", "Silnik zwrócił null dla zdjęcia przepisu: ${recipe.id}")
                     updateImageLoadingState(recipe.id, false)
                 }
             } catch (e: Exception) {
+                Log.e("RecVM", "Błąd generowania zdjęcia dla ${recipe.id}: ${e.message}", e)
                 updateImageLoadingState(recipe.id, false)
             }
         }
@@ -167,6 +174,7 @@ class RecommendationViewModel(
     }
 
     private fun updateImageLoadingState(recipeId: Long, isLoading: Boolean) {
+        Log.d("RecVM", "Aktualizacja stanu ładowania obrazu dla ID: $recipeId na: $isLoading")
         val currentState = _uiState.value
         if (currentState is RecommendationUiState.Success) {
             val newList = currentState.recipes.map {
@@ -175,11 +183,17 @@ class RecommendationViewModel(
             _uiState.value = RecommendationUiState.Success(newList)
         }
         _selectedRecipe.value?.let {
-            if (it.id == recipeId) _selectedRecipe.value = it.copy(isImageLoading = isLoading)
+            if (it.id == recipeId) {
+                Log.d("RecVM", "Zaktualizowano selectedRecipe ID: $recipeId")
+                _selectedRecipe.value = it.copy(isImageLoading = isLoading)
+            } else {
+                Log.v("RecVM", "selectedRecipe ID (${it.id}) nie pasuje do $recipeId")
+            }
         }
     }
 
     private fun applyNewImageUrl(recipeId: Long, url: String) {
+        Log.d("RecVM", "Aplikowanie nowego URL dla ID: $recipeId -> $url")
         val currentState = _uiState.value
         if (currentState is RecommendationUiState.Success) {
             val newList = currentState.recipes.map {
@@ -188,7 +202,12 @@ class RecommendationViewModel(
             _uiState.value = RecommendationUiState.Success(newList)
         }
         _selectedRecipe.value?.let {
-            if (it.id == recipeId) _selectedRecipe.value = it.copy(imageUrl = url, isImageLoading = false)
+            if (it.id == recipeId) {
+                Log.d("RecVM", "Zaktualizowano URL w selectedRecipe dla ID: $recipeId")
+                _selectedRecipe.value = it.copy(imageUrl = url, isImageLoading = false)
+            } else {
+                Log.v("RecVM", "selectedRecipe ID (${it.id}) nie pasuje do $recipeId przy aplikacji URL")
+            }
         }
     }
 }

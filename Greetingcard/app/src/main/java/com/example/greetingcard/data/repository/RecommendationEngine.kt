@@ -14,6 +14,7 @@ import kotlinx.serialization.json.*
 import com.example.greetingcard.data.model.RecipeRecommendation
 import com.example.greetingcard.data.model.toCleanString
 import com.example.greetingcard.UserProfile
+import com.example.greetingcard.BuildConfig
 import kotlinx.coroutines.async
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.delay
@@ -69,40 +70,59 @@ private data class ProfilePrefsUpdate(
 
 class RecommendationEngine(private val supabase: SupabaseClient) {
 
-    private val generativeModel: GenerativeModel? by lazy {
-        val apiKey = com.example.greetingcard.BuildConfig.GEMINI_API_KEY
-        if (apiKey.isNotBlank()) {
-            GenerativeModel(modelName = "gemini-2.5-flash", apiKey = apiKey)
-        } else {
-            Log.e("RecommendationEngine", "GEMINI_API_KEY is missing!")
-            null
-        }
+    private val apiKey = com.example.greetingcard.BuildConfig.GEMINI_API_KEY
+    private val pollinationsKey = com.example.greetingcard.BuildConfig.POLLINATIONS_API_KEY
+
+    private val primaryModel: GenerativeModel? by lazy {
+        if (apiKey.isNotBlank()) GenerativeModel(modelName = "gemini-2.5-flash", apiKey = apiKey) else null
+    }
+
+    private val secondaryModel: GenerativeModel? by lazy {
+        if (apiKey.isNotBlank()) GenerativeModel(modelName = "gemini-2.5-flash-lite", apiKey = apiKey) else null
+    }
+
+    private val tertiaryModel: GenerativeModel? by lazy {
+        if (apiKey.isNotBlank()) GenerativeModel(modelName = "gemini-3.1-flash-lite", apiKey = apiKey) else null
     }
 
     private suspend fun safeGenerateContent(prompt: String, maxRetries: Int = 3): GenerateContentResponse? {
-        val model = generativeModel ?: return null
-        var currentRetry = 0
+        // Próbujemy modeli w kolejności: 2.5 Flash -> 2.5 Flash-Lite -> 3.1 Flash-Lite
+        val models = listOfNotNull(primaryModel, secondaryModel, tertiaryModel)
+        if (models.isEmpty()) return null
+
         var lastException: Exception? = null
-        
-        while (currentRetry < maxRetries) {
-            try {
-                return model.generateContent(prompt)
-            } catch (e: Exception) {
-                lastException = e
-                val errorMsg = e.message ?: ""
-                if (errorMsg.contains("429") || errorMsg.contains("503") || 
-                    errorMsg.contains("Quota exceeded") || errorMsg.contains("limit") ||
-                    errorMsg.contains("UNAVAILABLE") || errorMsg.contains("high demand")) {
-                    currentRetry++
-                    val waitTime = (2000L * currentRetry) + (500L..1500L).random()
-                    Log.w("RecEngineAI", "Model zajęty lub limit przekroczony (Error: $errorMsg). Próba $currentRetry/$maxRetries za ${waitTime}ms...")
-                    delay(waitTime)
-                } else {
-                    throw e // Jeśli to inny błąd, rzuć go dalej
+
+        for (model in models) {
+            var currentRetry = 0
+            while (currentRetry < maxRetries) {
+                try {
+                    Log.d("RecEngineAI", "Próba generowania (Model: ${model.modelName}, Próba: ${currentRetry + 1})")
+                    return model.generateContent(prompt)
+                } catch (e: Exception) {
+                    lastException = e
+                    val errorMsg = e.message ?: ""
+                    
+                    val isQuotaError = errorMsg.contains("429") || errorMsg.contains("Quota exceeded") || 
+                                     errorMsg.contains("limit") || errorMsg.contains("exhausted")
+
+                    if (isQuotaError) {
+                        if (currentRetry < maxRetries - 1) {
+                            currentRetry++
+                            val waitTime = (1000L * currentRetry) + (300L..700L).random()
+                            Log.w("RecEngineAI", "Limit przekroczony dla ${model.modelName}. Ponowna próba za ${waitTime}ms...")
+                            delay(waitTime)
+                        } else {
+                            Log.e("RecEngineAI", "Model ${model.modelName} wyczerpał limity. Przełączam na następny model...")
+                            break 
+                        }
+                    } else {
+                        currentRetry++
+                        delay(500L)
+                    }
                 }
             }
         }
-        throw lastException ?: Exception("Nieznany błąd AI po $maxRetries próbach")
+        throw lastException ?: Exception("Wszystkie modele AI zawiodły po próbach")
     }
 
     companion object {
@@ -227,7 +247,7 @@ class RecommendationEngine(private val supabase: SupabaseClient) {
                 6. "niceToNotHaveIngredients": Składniki nielubiane.
                 7. "cuisines": Kuchnie świata.
                 
-                FORMAT ODPOWIEDZI: Wyłącznie czysty JSON. Mianownik liczby pojedynczej, małe litery.
+                FORMAT ODPOWIEDZI: Wyłącznie czysty JSON. Mianownik liczby pojedynczej, małe literery.
                 Przykład dla "gnocchi z sosem pomidorowym i serem": {"keywords": ["gnocchi"], "diets": [], "mustHaveIngredients": ["pomidor"], "niceToHaveIngredients": ["ser"], "excludedIngredients": [], "niceToNotHaveIngredients": [], "cuisines": []}
             """.trimIndent()
 
@@ -400,7 +420,7 @@ class RecommendationEngine(private val supabase: SupabaseClient) {
                     count = targetAiCount, 
                     excludedNames = filteredDbRecipes.map { it.name }, 
                     userPrompt = userPrompt,
-                    isVegetarian = userIsVegetarian
+                    diets = combinedTags
                 )
             } else emptyList<RecipeRecommendation>()
         } catch (e: Exception) {
@@ -433,13 +453,13 @@ class RecommendationEngine(private val supabase: SupabaseClient) {
         surveyWanted: List<String>, violenceClearExcl: List<String>, maxTime: Int?, isWarm: Boolean?, count: Int,
         excludedNames: List<String> = emptyList(),
         userPrompt: String? = null,
-        isVegetarian: Boolean = false
+        diets: List<String> = emptyList()
     ): List<RecipeRecommendation> {
         Log.d("RecEngineAI", "=== START GENEROWANIA AI (Count: $count) ===")
         val aiRecipes = mutableListOf<RecipeRecommendation>()
 
-        val dietStatus = if (isVegetarian) "wegetariańska" else "standardowa"
-        var dietPrompt = "Dieta: $dietStatus. Składniki mile widziane: ${surveyWanted.joinToString(", ")}."
+        val dietsStr = if (diets.isNotEmpty()) diets.joinToString(", ") else "standardowa"
+        var dietPrompt = "Dieta: $dietsStr. Składniki mile widziane: ${surveyWanted.joinToString(", ")}."
         if (!userPrompt.isNullOrBlank()) {
             dietPrompt += "\nUżytkownik opisał swoją zachciankę bezpośrednio tak: \"$userPrompt\". Spełnij te kryteria w pierwszej kolejności!"
         }
@@ -552,14 +572,25 @@ class RecommendationEngine(private val supabase: SupabaseClient) {
     }
 
     suspend fun generateImageForRecipe(recipeName: String, ingredients: String? = null): String? {
-        return try {
-            val cleanName = recipeName.replace(" ✨ (Przepis AI)", "").trim()
-            var promptBase = "Professional food photography of $cleanName"
-            if (!ingredients.isNullOrBlank()) promptBase += " containing ${ingredients.take(200)}"
-            promptBase += ", gourmet presentation, highly detailed, 8k resolution"
-            val safePrompt = java.net.URLEncoder.encode(promptBase, "UTF-8")
-            "https://image.pollinations.ai/prompt/$safePrompt?width=1024&height=1024&nologo=true&model=flux&seed=${(1..1000000).random()}"
-        } catch (e: Exception) { null }
+        val cleanName = recipeName.replace(" ✨ (Przepis AI)", "").trim()
+
+        // 1. Tłumaczenie na angielski (niezbędne dla jakości i stabilności AI)
+        val englishName = try {
+            val response = safeGenerateContent("Translate this food name to English (ONLY the name): \"$cleanName\"")
+            response?.text?.trim()?.removeSurrounding("\"")?.removeSuffix(".") ?: cleanName
+        } catch (e: Exception) { cleanName }
+
+        Log.d("RecEngine", "Pollinations Prompt: $englishName")
+
+        // 2. Link Pollinations (Standard 2026: gen.pollinations.ai z parametrem 'key')
+        val safePrompt = java.net.URLEncoder.encode("Professional food photography of $englishName, gourmet presentation, highly detailed, 4k", "UTF-8")
+
+        // W 2026 klucz API podaje się w parametrze 'key'.
+        // Używamy zunifikowanego endpointu 'gen.pollinations.ai/image/'
+        val finalUrl = "https://gen.pollinations.ai/image/$safePrompt?width=1024&height=1024&nologo=true&model=flux&seed=${(1..1000000).random()}&key=${BuildConfig.POLLINATIONS_API_KEY}"
+
+        Log.d("RecEngine", "Wygenerowany URL Pollinations (Key-Auth): ${finalUrl.replace(BuildConfig.POLLINATIONS_API_KEY, "***")}")
+        return finalUrl
     }
 
     suspend fun saveRecipeToDatabase(recipe: RecipeRecommendation): RecipeRecommendation {
